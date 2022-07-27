@@ -3,7 +3,7 @@ entries:
   clickhouse:
   - apiVersion: v1
     appVersion: "19.14"
-    created: "2022-07-27T11:32:32.068804758Z"
+    created: "2022-07-27T11:34:31.120487006Z"
     description: ClickHouse is an open source column-oriented database management
       system capable of real time generation of analytical data reports using SQL
       queries
@@ -20,11 +20,11 @@ entries:
     sources:
     - https://github.com/sentry-kubernetes/charts
     urls:
-    - https://pulse00.github.io/sentry-charts/clickhouse-3.1.2.tgz
+    - https://ecosio.github.io/sentry-charts/clickhouse-3.1.2.tgz
     version: 3.1.2
   - apiVersion: v1
     appVersion: "19.14"
-    created: "2022-07-27T11:32:32.067138426Z"
+    created: "2022-07-27T11:34:31.118993815Z"
     description: ClickHouse is an open source column-oriented database management
       system capable of real time generation of analytical data reports using SQL
       queries
@@ -39,11 +39,11 @@ entries:
     sources:
     - https://github.com/sentry-kubernetes/charts
     urls:
-    - https://pulse00.github.io/sentry-charts/clickhouse-3.1.1.tgz
+    - https://ecosio.github.io/sentry-charts/clickhouse-3.1.1.tgz
     version: 3.1.1
   - apiVersion: v1
     appVersion: "19.14"
-    created: "2022-07-27T11:32:32.065521394Z"
+    created: "2022-07-27T11:34:31.117474625Z"
     description: ClickHouse is an open source column-oriented database management
       system capable of real time generation of analytical data reports using SQL
       queries
@@ -58,11 +58,11 @@ entries:
     sources:
     - https://github.com/sentry-kubernetes/charts
     urls:
-    - https://pulse00.github.io/sentry-charts/clickhouse-3.1.0.tgz
+    - https://ecosio.github.io/sentry-charts/clickhouse-3.1.0.tgz
     version: 3.1.0
   - apiVersion: v1
     appVersion: "19.14"
-    created: "2022-07-27T11:32:32.063886063Z"
+    created: "2022-07-27T11:34:31.115932434Z"
     description: ClickHouse is an open source column-oriented database management
       system capable of real time generation of analytical data reports using SQL
       queries
@@ -77,11 +77,11 @@ entries:
     sources:
     - https://github.com/sentry-kubernetes/charts
     urls:
-    - https://pulse00.github.io/sentry-charts/clickhouse-3.0.0.tgz
+    - https://ecosio.github.io/sentry-charts/clickhouse-3.0.0.tgz
     version: 3.0.0
   - apiVersion: v1
     appVersion: "19.14"
-    created: "2022-07-27T11:32:32.062354333Z"
+    created: "2022-07-27T11:34:31.113945847Z"
     description: ClickHouse is an open source column-oriented database management
       system capable of real time generation of analytical data reports using SQL
       queries
@@ -96,11 +96,11 @@ entries:
     sources:
     - https://github.com/sentry-kubernetes/charts
     urls:
-    - https://pulse00.github.io/sentry-charts/clickhouse-2.0.0.tgz
+    - https://ecosio.github.io/sentry-charts/clickhouse-2.0.0.tgz
     version: 2.0.0
   - apiVersion: v1
     appVersion: "19.14"
-    created: "2022-07-27T11:32:32.0606893Z"
+    created: "2022-07-27T11:34:31.112170758Z"
     description: ClickHouse is an open source column-oriented database management
       system capable of real time generation of analytical data reports using SQL
       queries
@@ -115,11 +115,11 @@ entries:
     sources:
     - https://github.com/sentry-kubernetes/charts
     urls:
-    - https://pulse00.github.io/sentry-charts/clickhouse-1.5.0.tgz
+    - https://ecosio.github.io/sentry-charts/clickhouse-1.5.0.tgz
     version: 1.5.0
   - apiVersion: v1
     appVersion: "19.14"
-    created: "2022-07-27T11:32:32.058745763Z"
+    created: "2022-07-27T11:34:31.110737067Z"
     description: ClickHouse is an open source column-oriented database management
       system capable of real time generation of analytical data reports using SQL
       queries
@@ -134,11 +134,11 @@ entries:
     sources:
     - https://github.com/sentry-kubernetes/charts
     urls:
-    - https://pulse00.github.io/sentry-charts/clickhouse-1.4.1.tgz
+    - https://ecosio.github.io/sentry-charts/clickhouse-1.4.1.tgz
     version: 1.4.1
   - apiVersion: v1
     appVersion: "19.14"
-    created: "2022-07-27T11:32:32.056293015Z"
+    created: "2022-07-27T11:34:31.109325875Z"
     description: ClickHouse is an open source column-oriented database management
       system capable of real time generation of analytical data reports using SQL
       queries
@@ -153,11 +153,11 @@ entries:
     sources:
     - https://github.com/sentry-kubernetes/charts
     urls:
-    - https://pulse00.github.io/sentry-charts/clickhouse-1.4.0.tgz
+    - https://ecosio.github.io/sentry-charts/clickhouse-1.4.0.tgz
     version: 1.4.0
   - apiVersion: v1
     appVersion: "19.14"
-    created: "2022-07-27T11:32:32.053761566Z"
+    created: "2022-07-27T11:34:31.107932784Z"
     description: ClickHouse is an open source column-oriented database management
       system capable of real time generation of analytical data reports using SQL
       queries
@@ -172,11 +172,11 @@ entries:
     sources:
     - https://github.com/sentry-kubernetes/charts
     urls:
-    - https://pulse00.github.io/sentry-charts/clickhouse-1.3.0.tgz
+    - https://ecosio.github.io/sentry-charts/clickhouse-1.3.0.tgz
     version: 1.3.0
   - apiVersion: v1
     appVersion: "19.14"
-    created: "2022-07-27T11:32:32.052564443Z"
+    created: "2022-07-27T11:34:31.106622492Z"
     description: ClickHouse is an open source column-oriented database management
       system capable of real time generation of analytical data reports using SQL
       queries
@@ -191,11 +191,11 @@ entries:
     sources:
     - https://github.com/sentry-kubernetes/charts
     urls:
-    - https://pulse00.github.io/sentry-charts/clickhouse-1.2.2.tgz
+    - https://ecosio.github.io/sentry-charts/clickhouse-1.2.2.tgz
     version: 1.2.2
   - apiVersion: v1
     appVersion: "19.14"
-    created: "2022-07-27T11:32:32.050728807Z"
+    created: "2022-07-27T11:34:31.104672604Z"
     description: ClickHouse is an open source column-oriented database management
       system capable of real time generation of analytical data reports using SQL
       queries
@@ -210,11 +210,11 @@ entries:
     sources:
     - https://github.com/sentry-kubernetes/charts
     urls:
-    - https://pulse00.github.io/sentry-charts/clickhouse-1.2.1.tgz
+    - https://ecosio.github.io/sentry-charts/clickhouse-1.2.1.tgz
     version: 1.2.1
   - apiVersion: v1
     appVersion: "19.14"
-    created: "2022-07-27T11:32:32.049060075Z"
+    created: "2022-07-27T11:34:31.102717617Z"
     description: ClickHouse is an open source column-oriented database management
       system capable of real time generation of analytical data reports using SQL
       queries
@@ -229,11 +229,11 @@ entries:
     sources:
     - https://github.com/sentry-kubernetes/charts
     urls:
-    - https://pulse00.github.io/sentry-charts/clickhouse-1.2.0.tgz
+    - https://ecosio.github.io/sentry-charts/clickhouse-1.2.0.tgz
     version: 1.2.0
   - apiVersion: v1
     appVersion: "19.14"
-    created: "2022-07-27T11:32:32.047441743Z"
+    created: "2022-07-27T11:34:31.101439125Z"
     description: ClickHouse is an open source column-oriented database management
       system capable of real time generation of analytical data reports using SQL
       queries
@@ -248,11 +248,11 @@ entries:
     sources:
     - https://github.com/sentry-kubernetes/charts
     urls:
-    - https://pulse00.github.io/sentry-charts/clickhouse-1.1.0.tgz
+    - https://ecosio.github.io/sentry-charts/clickhouse-1.1.0.tgz
     version: 1.1.0
   - apiVersion: v1
     appVersion: "19.14"
-    created: "2022-07-27T11:32:32.046119518Z"
+    created: "2022-07-27T11:34:31.100185032Z"
     description: ClickHouse is an open source column-oriented database management
       system capable of real time generation of analytical data reports using SQL
       queries
@@ -267,11 +267,11 @@ entries:
     sources:
     - https://github.com/sentry-kubernetes/charts
     urls:
-    - https://pulse00.github.io/sentry-charts/clickhouse-1.0.1.tgz
+    - https://ecosio.github.io/sentry-charts/clickhouse-1.0.1.tgz
     version: 1.0.1
   - apiVersion: v1
     appVersion: "19.14"
-    created: "2022-07-27T11:32:32.044823392Z"
+    created: "2022-07-27T11:34:31.09895254Z"
     description: ClickHouse is an open source column-oriented database management
       system capable of real time generation of analytical data reports using SQL
       queries
@@ -286,12 +286,58 @@ entries:
     sources:
     - https://github.com/sentry-kubernetes/charts
     urls:
-    - https://pulse00.github.io/sentry-charts/clickhouse-1.0.0.tgz
+    - https://ecosio.github.io/sentry-charts/clickhouse-1.0.0.tgz
     version: 1.0.0
   sentry:
   - apiVersion: v2
     appVersion: 22.6.0
-    created: "2022-07-27T11:32:33.911663434Z"
+    created: "2022-07-27T11:34:33.063020609Z"
+    dependencies:
+    - condition: sourcemaps.enabled
+      name: memcached
+      repository: https://charts.bitnami.com/bitnami
+      version: 6.1.5
+    - condition: redis.enabled
+      name: redis
+      repository: https://charts.bitnami.com/bitnami
+      version: 16.12.1
+    - condition: kafka.enabled
+      name: kafka
+      repository: https://charts.bitnami.com/bitnami
+      version: 16.3.2
+    - condition: clickhouse.enabled
+      name: clickhouse
+      repository: https://sentry-kubernetes.github.io/charts
+      version: 3.1.2
+    - condition: zookeeper.enabled
+      name: zookeeper
+      repository: https://charts.bitnami.com/bitnami
+      version: 9.0.0
+    - alias: rabbitmq
+      condition: rabbitmq.enabled
+      name: rabbitmq
+      repository: https://charts.bitnami.com/bitnami
+      version: 8.32.2
+    - condition: postgresql.enabled
+      name: postgresql
+      repository: https://charts.bitnami.com/bitnami
+      version: 10.16.2
+    - condition: nginx.enabled
+      name: nginx
+      repository: https://charts.bitnami.com/bitnami
+      version: 12.0.4
+    description: A Helm chart for Kubernetes
+    digest: 2b9652128eb23ac225eb45ce219780da74d46158b264f041df638cbbda5c902a
+    maintainers:
+    - name: sentry-kubernetes
+    name: sentry
+    type: application
+    urls:
+    - https://ecosio.github.io/sentry-charts/sentry-15.1.3.tgz
+    version: 15.1.3
+  - apiVersion: v2
+    appVersion: 22.6.0
+    created: "2022-07-27T11:34:32.998392711Z"
     dependencies:
     - condition: sourcemaps.enabled
       name: memcached
@@ -333,11 +379,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://pulse00.github.io/sentry-charts/sentry-15.1.2.tgz
+    - https://ecosio.github.io/sentry-charts/sentry-15.1.2.tgz
     version: 15.1.2
   - apiVersion: v2
     appVersion: 22.6.0
-    created: "2022-07-27T11:32:33.866871064Z"
+    created: "2022-07-27T11:34:32.950773808Z"
     dependencies:
     - condition: sourcemaps.enabled
       name: memcached
@@ -379,11 +425,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://pulse00.github.io/sentry-charts/sentry-15.1.1.tgz
+    - https://ecosio.github.io/sentry-charts/sentry-15.1.1.tgz
     version: 15.1.1
   - apiVersion: v2
     appVersion: 22.6.0
-    created: "2022-07-27T11:32:33.822426701Z"
+    created: "2022-07-27T11:34:32.905275391Z"
     dependencies:
     - condition: sourcemaps.enabled
       name: memcached
@@ -425,11 +471,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://pulse00.github.io/sentry-charts/sentry-15.1.0.tgz
+    - https://ecosio.github.io/sentry-charts/sentry-15.1.0.tgz
     version: 15.1.0
   - apiVersion: v2
     appVersion: 22.6.0
-    created: "2022-07-27T11:32:33.423818463Z"
+    created: "2022-07-27T11:34:32.5024684Z"
     dependencies:
     - condition: sourcemaps.enabled
       name: memcached
@@ -471,11 +517,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://pulse00.github.io/sentry-charts/sentry-15.0.14.tgz
+    - https://ecosio.github.io/sentry-charts/sentry-15.0.14.tgz
     version: 15.0.14
   - apiVersion: v2
     appVersion: 22.6.0
-    created: "2022-07-27T11:32:33.381523242Z"
+    created: "2022-07-27T11:34:32.458330674Z"
     dependencies:
     - condition: sourcemaps.enabled
       name: memcached
@@ -517,11 +563,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://pulse00.github.io/sentry-charts/sentry-15.0.13.tgz
+    - https://ecosio.github.io/sentry-charts/sentry-15.0.13.tgz
     version: 15.0.13
   - apiVersion: v2
     appVersion: 22.6.0
-    created: "2022-07-27T11:32:33.336046859Z"
+    created: "2022-07-27T11:34:32.413809352Z"
     dependencies:
     - condition: sourcemaps.enabled
       name: memcached
@@ -563,11 +609,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://pulse00.github.io/sentry-charts/sentry-15.0.12.tgz
+    - https://ecosio.github.io/sentry-charts/sentry-15.0.12.tgz
     version: 15.0.12
   - apiVersion: v2
     appVersion: 22.6.0
-    created: "2022-07-27T11:32:33.290459474Z"
+    created: "2022-07-27T11:34:32.369704326Z"
     dependencies:
     - condition: sourcemaps.enabled
       name: memcached
@@ -609,11 +655,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://pulse00.github.io/sentry-charts/sentry-15.0.11.tgz
+    - https://ecosio.github.io/sentry-charts/sentry-15.0.11.tgz
     version: 15.0.11
   - apiVersion: v2
     appVersion: 22.6.0
-    created: "2022-07-27T11:32:33.246112713Z"
+    created: "2022-07-27T11:34:32.324398109Z"
     dependencies:
     - condition: sourcemaps.enabled
       name: memcached
@@ -655,11 +701,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://pulse00.github.io/sentry-charts/sentry-15.0.10.tgz
+    - https://ecosio.github.io/sentry-charts/sentry-15.0.10.tgz
     version: 15.0.10
   - apiVersion: v2
     appVersion: 22.6.0
-    created: "2022-07-27T11:32:33.777844836Z"
+    created: "2022-07-27T11:34:32.860566569Z"
     dependencies:
     - condition: sourcemaps.enabled
       name: memcached
@@ -701,11 +747,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://pulse00.github.io/sentry-charts/sentry-15.0.9.tgz
+    - https://ecosio.github.io/sentry-charts/sentry-15.0.9.tgz
     version: 15.0.9
   - apiVersion: v2
     appVersion: 22.6.0
-    created: "2022-07-27T11:32:33.733543076Z"
+    created: "2022-07-27T11:34:32.815689149Z"
     dependencies:
     - condition: sourcemaps.enabled
       name: memcached
@@ -747,11 +793,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://pulse00.github.io/sentry-charts/sentry-15.0.8.tgz
+    - https://ecosio.github.io/sentry-charts/sentry-15.0.8.tgz
     version: 15.0.8
   - apiVersion: v2
     appVersion: 22.6.0
-    created: "2022-07-27T11:32:33.689741825Z"
+    created: "2022-07-27T11:34:32.770832628Z"
     dependencies:
     - condition: sourcemaps.enabled
       name: memcached
@@ -793,11 +839,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://pulse00.github.io/sentry-charts/sentry-15.0.7.tgz
+    - https://ecosio.github.io/sentry-charts/sentry-15.0.7.tgz
     version: 15.0.7
   - apiVersion: v2
     appVersion: 22.7.0
-    created: "2022-07-27T11:32:33.645403665Z"
+    created: "2022-07-27T11:34:32.726400205Z"
     dependencies:
     - condition: sourcemaps.enabled
       name: memcached
@@ -839,11 +885,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://pulse00.github.io/sentry-charts/sentry-15.0.6.tgz
+    - https://ecosio.github.io/sentry-charts/sentry-15.0.6.tgz
     version: 15.0.6
   - apiVersion: v2
     appVersion: 22.6.0
-    created: "2022-07-27T11:32:33.601249007Z"
+    created: "2022-07-27T11:34:32.681613284Z"
     dependencies:
     - condition: sourcemaps.enabled
       name: memcached
@@ -885,11 +931,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://pulse00.github.io/sentry-charts/sentry-15.0.5.tgz
+    - https://ecosio.github.io/sentry-charts/sentry-15.0.5.tgz
     version: 15.0.5
   - apiVersion: v2
     appVersion: 22.6.0
-    created: "2022-07-27T11:32:33.557306154Z"
+    created: "2022-07-27T11:34:32.63732436Z"
     dependencies:
     - condition: sourcemaps.enabled
       name: memcached
@@ -931,11 +977,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://pulse00.github.io/sentry-charts/sentry-15.0.4.tgz
+    - https://ecosio.github.io/sentry-charts/sentry-15.0.4.tgz
     version: 15.0.4
   - apiVersion: v2
     appVersion: 22.6.0
-    created: "2022-07-27T11:32:33.511626068Z"
+    created: "2022-07-27T11:34:32.591870243Z"
     dependencies:
     - condition: sourcemaps.enabled
       name: memcached
@@ -977,11 +1023,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://pulse00.github.io/sentry-charts/sentry-15.0.3.tgz
+    - https://ecosio.github.io/sentry-charts/sentry-15.0.3.tgz
     version: 15.0.3
   - apiVersion: v2
     appVersion: 22.6.0
-    created: "2022-07-27T11:32:33.468084322Z"
+    created: "2022-07-27T11:34:32.54735542Z"
     dependencies:
     - condition: sourcemaps.enabled
       name: memcached
@@ -1023,11 +1069,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://pulse00.github.io/sentry-charts/sentry-15.0.2.tgz
+    - https://ecosio.github.io/sentry-charts/sentry-15.0.2.tgz
     version: 15.0.2
   - apiVersion: v2
     appVersion: 22.6.0
-    created: "2022-07-27T11:32:33.200919136Z"
+    created: "2022-07-27T11:34:32.278973391Z"
     dependencies:
     - condition: sourcemaps.enabled
       name: memcached
@@ -1069,11 +1115,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://pulse00.github.io/sentry-charts/sentry-15.0.1.tgz
+    - https://ecosio.github.io/sentry-charts/sentry-15.0.1.tgz
     version: 15.0.1
   - apiVersion: v2
     appVersion: 22.6.0
-    created: "2022-07-27T11:32:33.156369671Z"
+    created: "2022-07-27T11:34:32.234016771Z"
     dependencies:
     - condition: sourcemaps.enabled
       name: memcached
@@ -1115,11 +1161,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://pulse00.github.io/sentry-charts/sentry-15.0.0.tgz
+    - https://ecosio.github.io/sentry-charts/sentry-15.0.0.tgz
     version: 15.0.0
   - apiVersion: v2
     appVersion: 22.6.0
-    created: "2022-07-27T11:32:33.112866126Z"
+    created: "2022-07-27T11:34:32.188617254Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -1157,11 +1203,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://pulse00.github.io/sentry-charts/sentry-14.2.0.tgz
+    - https://ecosio.github.io/sentry-charts/sentry-14.2.0.tgz
     version: 14.2.0
   - apiVersion: v2
     appVersion: 22.6.0
-    created: "2022-07-27T11:32:33.079702783Z"
+    created: "2022-07-27T11:34:32.154136769Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -1199,11 +1245,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://pulse00.github.io/sentry-charts/sentry-14.1.2.tgz
+    - https://ecosio.github.io/sentry-charts/sentry-14.1.2.tgz
     version: 14.1.2
   - apiVersion: v2
     appVersion: 22.5.0
-    created: "2022-07-27T11:32:33.048075269Z"
+    created: "2022-07-27T11:34:32.121145974Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -1241,11 +1287,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://pulse00.github.io/sentry-charts/sentry-14.1.1.tgz
+    - https://ecosio.github.io/sentry-charts/sentry-14.1.1.tgz
     version: 14.1.1
   - apiVersion: v2
     appVersion: 22.5.0
-    created: "2022-07-27T11:32:33.014840623Z"
+    created: "2022-07-27T11:34:32.086959287Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -1283,11 +1329,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://pulse00.github.io/sentry-charts/sentry-14.1.0.tgz
+    - https://ecosio.github.io/sentry-charts/sentry-14.1.0.tgz
     version: 14.1.0
   - apiVersion: v2
     appVersion: 22.3.0
-    created: "2022-07-27T11:32:32.982250091Z"
+    created: "2022-07-27T11:34:32.053564395Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -1325,11 +1371,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://pulse00.github.io/sentry-charts/sentry-14.0.2.tgz
+    - https://ecosio.github.io/sentry-charts/sentry-14.0.2.tgz
     version: 14.0.2
   - apiVersion: v2
     appVersion: 22.3.0
-    created: "2022-07-27T11:32:32.949789761Z"
+    created: "2022-07-27T11:34:32.020232403Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -1365,11 +1411,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://pulse00.github.io/sentry-charts/sentry-14.0.1.tgz
+    - https://ecosio.github.io/sentry-charts/sentry-14.0.1.tgz
     version: 14.0.1
   - apiVersion: v2
     appVersion: 22.3.0
-    created: "2022-07-27T11:32:32.916687118Z"
+    created: "2022-07-27T11:34:31.971529106Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -1405,11 +1451,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://pulse00.github.io/sentry-charts/sentry-14.0.0.tgz
+    - https://ecosio.github.io/sentry-charts/sentry-14.0.0.tgz
     version: 14.0.0
   - apiVersion: v2
     appVersion: 21.8.0
-    created: "2022-07-27T11:32:32.88436219Z"
+    created: "2022-07-27T11:34:31.936577524Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -1441,11 +1487,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://pulse00.github.io/sentry-charts/sentry-13.1.0.tgz
+    - https://ecosio.github.io/sentry-charts/sentry-13.1.0.tgz
     version: 13.1.0
   - apiVersion: v2
     appVersion: 21.8.0
-    created: "2022-07-27T11:32:32.855954539Z"
+    created: "2022-07-27T11:34:31.907008108Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -1477,11 +1523,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://pulse00.github.io/sentry-charts/sentry-13.0.1.tgz
+    - https://ecosio.github.io/sentry-charts/sentry-13.0.1.tgz
     version: 13.0.1
   - apiVersion: v2
     appVersion: 21.8.0
-    created: "2022-07-27T11:32:32.82872291Z"
+    created: "2022-07-27T11:34:31.87771569Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -1513,11 +1559,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://pulse00.github.io/sentry-charts/sentry-13.0.0.tgz
+    - https://ecosio.github.io/sentry-charts/sentry-13.0.0.tgz
     version: 13.0.0
   - apiVersion: v2
     appVersion: 21.8.0
-    created: "2022-07-27T11:32:32.79987315Z"
+    created: "2022-07-27T11:34:31.849180768Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -1549,11 +1595,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://pulse00.github.io/sentry-charts/sentry-12.0.0.tgz
+    - https://ecosio.github.io/sentry-charts/sentry-12.0.0.tgz
     version: 12.0.0
   - apiVersion: v2
     appVersion: 21.8.0
-    created: "2022-07-27T11:32:32.770024671Z"
+    created: "2022-07-27T11:34:31.812314098Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -1585,11 +1631,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://pulse00.github.io/sentry-charts/sentry-11.9.0.tgz
+    - https://ecosio.github.io/sentry-charts/sentry-11.9.0.tgz
     version: 11.9.0
   - apiVersion: v2
     appVersion: 21.8.0
-    created: "2022-07-27T11:32:32.738728563Z"
+    created: "2022-07-27T11:34:31.781300791Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -1621,11 +1667,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://pulse00.github.io/sentry-charts/sentry-11.8.0.tgz
+    - https://ecosio.github.io/sentry-charts/sentry-11.8.0.tgz
     version: 11.8.0
   - apiVersion: v2
     appVersion: 21.8.0
-    created: "2022-07-27T11:32:32.711309331Z"
+    created: "2022-07-27T11:34:31.754745756Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -1657,11 +1703,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://pulse00.github.io/sentry-charts/sentry-11.7.0.tgz
+    - https://ecosio.github.io/sentry-charts/sentry-11.7.0.tgz
     version: 11.7.0
   - apiVersion: v2
     appVersion: 21.8.0
-    created: "2022-07-27T11:32:32.671771163Z"
+    created: "2022-07-27T11:34:31.730868805Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -1693,11 +1739,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://pulse00.github.io/sentry-charts/sentry-11.6.0.tgz
+    - https://ecosio.github.io/sentry-charts/sentry-11.6.0.tgz
     version: 11.6.0
   - apiVersion: v2
     appVersion: 21.7.0
-    created: "2022-07-27T11:32:32.644984543Z"
+    created: "2022-07-27T11:34:31.705199465Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -1729,11 +1775,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://pulse00.github.io/sentry-charts/sentry-11.5.1.tgz
+    - https://ecosio.github.io/sentry-charts/sentry-11.5.1.tgz
     version: 11.5.1
   - apiVersion: v2
     appVersion: 21.7.0
-    created: "2022-07-27T11:32:32.618164523Z"
+    created: "2022-07-27T11:34:31.679384125Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -1765,11 +1811,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://pulse00.github.io/sentry-charts/sentry-11.5.0.tgz
+    - https://ecosio.github.io/sentry-charts/sentry-11.5.0.tgz
     version: 11.5.0
   - apiVersion: v2
     appVersion: 21.6.1
-    created: "2022-07-27T11:32:32.592599526Z"
+    created: "2022-07-27T11:34:31.652588692Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -1801,11 +1847,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://pulse00.github.io/sentry-charts/sentry-11.4.1.tgz
+    - https://ecosio.github.io/sentry-charts/sentry-11.4.1.tgz
     version: 11.4.1
   - apiVersion: v2
     appVersion: 21.6.1
-    created: "2022-07-27T11:32:32.568428057Z"
+    created: "2022-07-27T11:34:31.628949339Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -1837,11 +1883,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://pulse00.github.io/sentry-charts/sentry-11.4.0.tgz
+    - https://ecosio.github.io/sentry-charts/sentry-11.4.0.tgz
     version: 11.4.0
   - apiVersion: v2
     appVersion: 21.5.1
-    created: "2022-07-27T11:32:32.546223626Z"
+    created: "2022-07-27T11:34:31.605339087Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -1873,11 +1919,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://pulse00.github.io/sentry-charts/sentry-11.3.3.tgz
+    - https://ecosio.github.io/sentry-charts/sentry-11.3.3.tgz
     version: 11.3.3
   - apiVersion: v2
     appVersion: 21.5.1
-    created: "2022-07-27T11:32:32.523379883Z"
+    created: "2022-07-27T11:34:31.581908932Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -1909,11 +1955,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://pulse00.github.io/sentry-charts/sentry-11.3.2.tgz
+    - https://ecosio.github.io/sentry-charts/sentry-11.3.2.tgz
     version: 11.3.2
   - apiVersion: v2
     appVersion: 21.5.1
-    created: "2022-07-27T11:32:32.499730024Z"
+    created: "2022-07-27T11:34:31.558997575Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -1945,11 +1991,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://pulse00.github.io/sentry-charts/sentry-11.3.1.tgz
+    - https://ecosio.github.io/sentry-charts/sentry-11.3.1.tgz
     version: 11.3.1
   - apiVersion: v2
     appVersion: 21.5.1
-    created: "2022-07-27T11:32:32.477434991Z"
+    created: "2022-07-27T11:34:31.534874925Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -1981,11 +2027,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://pulse00.github.io/sentry-charts/sentry-11.3.0.tgz
+    - https://ecosio.github.io/sentry-charts/sentry-11.3.0.tgz
     version: 11.3.0
   - apiVersion: v2
     appVersion: 21.4.1
-    created: "2022-07-27T11:32:32.453661629Z"
+    created: "2022-07-27T11:34:31.512088867Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -2017,11 +2063,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://pulse00.github.io/sentry-charts/sentry-11.2.2.tgz
+    - https://ecosio.github.io/sentry-charts/sentry-11.2.2.tgz
     version: 11.2.2
   - apiVersion: v2
     appVersion: 21.4.1
-    created: "2022-07-27T11:32:32.430890887Z"
+    created: "2022-07-27T11:34:31.488663513Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -2053,11 +2099,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://pulse00.github.io/sentry-charts/sentry-11.2.1.tgz
+    - https://ecosio.github.io/sentry-charts/sentry-11.2.1.tgz
     version: 11.2.1
   - apiVersion: v2
     appVersion: 21.4.0
-    created: "2022-07-27T11:32:32.408469852Z"
+    created: "2022-07-27T11:34:31.466211153Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -2089,11 +2135,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://pulse00.github.io/sentry-charts/sentry-11.2.0.tgz
+    - https://ecosio.github.io/sentry-charts/sentry-11.2.0.tgz
     version: 11.2.0
   - apiVersion: v2
     appVersion: 21.4.0
-    created: "2022-07-27T11:32:32.385470705Z"
+    created: "2022-07-27T11:34:31.44100761Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -2125,11 +2171,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://pulse00.github.io/sentry-charts/sentry-11.1.0.tgz
+    - https://ecosio.github.io/sentry-charts/sentry-11.1.0.tgz
     version: 11.1.0
   - apiVersion: v2
     appVersion: 21.3.1
-    created: "2022-07-27T11:32:32.363094371Z"
+    created: "2022-07-27T11:34:31.417971853Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -2161,11 +2207,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://pulse00.github.io/sentry-charts/sentry-11.0.1.tgz
+    - https://ecosio.github.io/sentry-charts/sentry-11.0.1.tgz
     version: 11.0.1
   - apiVersion: v2
     appVersion: 21.3.0
-    created: "2022-07-27T11:32:32.340347529Z"
+    created: "2022-07-27T11:34:31.394175502Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -2197,11 +2243,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://pulse00.github.io/sentry-charts/sentry-11.0.0.tgz
+    - https://ecosio.github.io/sentry-charts/sentry-11.0.0.tgz
     version: 11.0.0
   - apiVersion: v2
     appVersion: 21.3.0
-    created: "2022-07-27T11:32:32.316937075Z"
+    created: "2022-07-27T11:34:31.371198145Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -2233,11 +2279,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://pulse00.github.io/sentry-charts/sentry-10.1.0.tgz
+    - https://ecosio.github.io/sentry-charts/sentry-10.1.0.tgz
     version: 10.1.0
   - apiVersion: v2
     appVersion: 21.2.0
-    created: "2022-07-27T11:32:32.294176233Z"
+    created: "2022-07-27T11:34:31.347521692Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -2269,11 +2315,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://pulse00.github.io/sentry-charts/sentry-10.0.0.tgz
+    - https://ecosio.github.io/sentry-charts/sentry-10.0.0.tgz
     version: 10.0.0
   - apiVersion: v2
     appVersion: 21.2.0
-    created: "2022-07-27T11:32:35.01075717Z"
+    created: "2022-07-27T11:34:34.469711648Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -2305,11 +2351,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://pulse00.github.io/sentry-charts/sentry-9.1.2.tgz
+    - https://ecosio.github.io/sentry-charts/sentry-9.1.2.tgz
     version: 9.1.2
   - apiVersion: v2
     appVersion: 21.2.0
-    created: "2022-07-27T11:32:34.988451137Z"
+    created: "2022-07-27T11:34:34.446745991Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -2341,11 +2387,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://pulse00.github.io/sentry-charts/sentry-9.1.1.tgz
+    - https://ecosio.github.io/sentry-charts/sentry-9.1.1.tgz
     version: 9.1.1
   - apiVersion: v2
     appVersion: 21.2.0
-    created: "2022-07-27T11:32:34.965467591Z"
+    created: "2022-07-27T11:34:34.422716041Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -2377,11 +2423,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://pulse00.github.io/sentry-charts/sentry-9.1.0.tgz
+    - https://ecosio.github.io/sentry-charts/sentry-9.1.0.tgz
     version: 9.1.0
   - apiVersion: v2
     appVersion: 21.1.0
-    created: "2022-07-27T11:32:34.943732569Z"
+    created: "2022-07-27T11:34:34.400568379Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -2413,11 +2459,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://pulse00.github.io/sentry-charts/sentry-9.0.2.tgz
+    - https://ecosio.github.io/sentry-charts/sentry-9.0.2.tgz
     version: 9.0.2
   - apiVersion: v2
     appVersion: 21.1.0
-    created: "2022-07-27T11:32:34.921574639Z"
+    created: "2022-07-27T11:34:34.377484623Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -2449,11 +2495,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://pulse00.github.io/sentry-charts/sentry-9.0.1.tgz
+    - https://ecosio.github.io/sentry-charts/sentry-9.0.1.tgz
     version: 9.0.1
   - apiVersion: v2
     appVersion: 21.1.0
-    created: "2022-07-27T11:32:34.898624993Z"
+    created: "2022-07-27T11:34:34.354188968Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -2485,11 +2531,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://pulse00.github.io/sentry-charts/sentry-9.0.0.tgz
+    - https://ecosio.github.io/sentry-charts/sentry-9.0.0.tgz
     version: 9.0.0
   - apiVersion: v2
     appVersion: 20.12.1
-    created: "2022-07-27T11:32:34.876937972Z"
+    created: "2022-07-27T11:34:34.332093805Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -2521,11 +2567,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://pulse00.github.io/sentry-charts/sentry-8.1.3.tgz
+    - https://ecosio.github.io/sentry-charts/sentry-8.1.3.tgz
     version: 8.1.3
   - apiVersion: v2
     appVersion: 20.12.1
-    created: "2022-07-27T11:32:34.857116488Z"
+    created: "2022-07-27T11:34:34.311713932Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -2557,11 +2603,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://pulse00.github.io/sentry-charts/sentry-8.1.2.tgz
+    - https://ecosio.github.io/sentry-charts/sentry-8.1.2.tgz
     version: 8.1.2
   - apiVersion: v2
     appVersion: 20.12.1
-    created: "2022-07-27T11:32:34.8371636Z"
+    created: "2022-07-27T11:34:34.291630857Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -2593,11 +2639,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://pulse00.github.io/sentry-charts/sentry-8.1.1.tgz
+    - https://ecosio.github.io/sentry-charts/sentry-8.1.1.tgz
     version: 8.1.1
   - apiVersion: v2
     appVersion: 20.12.1
-    created: "2022-07-27T11:32:34.816505899Z"
+    created: "2022-07-27T11:34:34.27027339Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -2629,11 +2675,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://pulse00.github.io/sentry-charts/sentry-8.1.0.tgz
+    - https://ecosio.github.io/sentry-charts/sentry-8.1.0.tgz
     version: 8.1.0
   - apiVersion: v2
     appVersion: 20.10.1
-    created: "2022-07-27T11:32:34.79544889Z"
+    created: "2022-07-27T11:34:34.251153309Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -2665,11 +2711,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://pulse00.github.io/sentry-charts/sentry-8.0.1.tgz
+    - https://ecosio.github.io/sentry-charts/sentry-8.0.1.tgz
     version: 8.0.1
   - apiVersion: v2
     appVersion: 20.10.1
-    created: "2022-07-27T11:32:34.77637822Z"
+    created: "2022-07-27T11:34:34.231156034Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -2701,11 +2747,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://pulse00.github.io/sentry-charts/sentry-8.0.0.tgz
+    - https://ecosio.github.io/sentry-charts/sentry-8.0.0.tgz
     version: 8.0.0
   - apiVersion: v2
     appVersion: 20.10.1
-    created: "2022-07-27T11:32:34.756606536Z"
+    created: "2022-07-27T11:34:34.211044959Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -2737,11 +2783,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://pulse00.github.io/sentry-charts/sentry-7.4.1.tgz
+    - https://ecosio.github.io/sentry-charts/sentry-7.4.1.tgz
     version: 7.4.1
   - apiVersion: v2
     appVersion: 20.10.1
-    created: "2022-07-27T11:32:34.736854453Z"
+    created: "2022-07-27T11:34:34.190761286Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -2773,11 +2819,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://pulse00.github.io/sentry-charts/sentry-7.4.0.tgz
+    - https://ecosio.github.io/sentry-charts/sentry-7.4.0.tgz
     version: 7.4.0
   - apiVersion: v2
     appVersion: 20.10.1
-    created: "2022-07-27T11:32:34.716953967Z"
+    created: "2022-07-27T11:34:34.168965021Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -2809,11 +2855,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://pulse00.github.io/sentry-charts/sentry-7.3.1.tgz
+    - https://ecosio.github.io/sentry-charts/sentry-7.3.1.tgz
     version: 7.3.1
   - apiVersion: v2
     appVersion: 20.10.1
-    created: "2022-07-27T11:32:34.69702488Z"
+    created: "2022-07-27T11:34:34.148944146Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -2845,11 +2891,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://pulse00.github.io/sentry-charts/sentry-7.3.0.tgz
+    - https://ecosio.github.io/sentry-charts/sentry-7.3.0.tgz
     version: 7.3.0
   - apiVersion: v2
     appVersion: 20.10.1
-    created: "2022-07-27T11:32:34.678687524Z"
+    created: "2022-07-27T11:34:34.130349462Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -2881,11 +2927,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://pulse00.github.io/sentry-charts/sentry-7.2.1.tgz
+    - https://ecosio.github.io/sentry-charts/sentry-7.2.1.tgz
     version: 7.2.1
   - apiVersion: v2
     appVersion: 20.10.1
-    created: "2022-07-27T11:32:34.659875159Z"
+    created: "2022-07-27T11:34:34.11133178Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -2917,11 +2963,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://pulse00.github.io/sentry-charts/sentry-7.2.0.tgz
+    - https://ecosio.github.io/sentry-charts/sentry-7.2.0.tgz
     version: 7.2.0
   - apiVersion: v2
     appVersion: 20.10.1
-    created: "2022-07-27T11:32:34.640609085Z"
+    created: "2022-07-27T11:34:34.091956501Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -2953,11 +2999,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://pulse00.github.io/sentry-charts/sentry-7.1.0.tgz
+    - https://ecosio.github.io/sentry-charts/sentry-7.1.0.tgz
     version: 7.1.0
   - apiVersion: v2
     appVersion: 20.10.1
-    created: "2022-07-27T11:32:34.621565515Z"
+    created: "2022-07-27T11:34:34.072506022Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -2989,11 +3035,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://pulse00.github.io/sentry-charts/sentry-7.0.0.tgz
+    - https://ecosio.github.io/sentry-charts/sentry-7.0.0.tgz
     version: 7.0.0
   - apiVersion: v2
     appVersion: 20.9.0
-    created: "2022-07-27T11:32:34.602892152Z"
+    created: "2022-07-27T11:34:34.044792795Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -3025,11 +3071,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://pulse00.github.io/sentry-charts/sentry-6.2.1.tgz
+    - https://ecosio.github.io/sentry-charts/sentry-6.2.1.tgz
     version: 6.2.1
   - apiVersion: v2
     appVersion: 20.9.0
-    created: "2022-07-27T11:32:34.583037267Z"
+    created: "2022-07-27T11:34:34.017953562Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -3061,11 +3107,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://pulse00.github.io/sentry-charts/sentry-6.2.0.tgz
+    - https://ecosio.github.io/sentry-charts/sentry-6.2.0.tgz
     version: 6.2.0
   - apiVersion: v2
     appVersion: 20.9.0
-    created: "2022-07-27T11:32:34.564728911Z"
+    created: "2022-07-27T11:34:33.992034923Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -3097,11 +3143,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://pulse00.github.io/sentry-charts/sentry-6.1.0.tgz
+    - https://ecosio.github.io/sentry-charts/sentry-6.1.0.tgz
     version: 6.1.0
   - apiVersion: v2
     appVersion: 20.9.0
-    created: "2022-07-27T11:32:34.546798163Z"
+    created: "2022-07-27T11:34:33.964791893Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -3133,11 +3179,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://pulse00.github.io/sentry-charts/sentry-6.0.0.tgz
+    - https://ecosio.github.io/sentry-charts/sentry-6.0.0.tgz
     version: 6.0.0
   - apiVersion: v2
     appVersion: 20.9.0
-    created: "2022-07-27T11:32:34.528849715Z"
+    created: "2022-07-27T11:34:33.936072972Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -3169,11 +3215,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://pulse00.github.io/sentry-charts/sentry-5.6.1.tgz
+    - https://ecosio.github.io/sentry-charts/sentry-5.6.1.tgz
     version: 5.6.1
   - apiVersion: v2
     appVersion: 20.9.0
-    created: "2022-07-27T11:32:34.510174152Z"
+    created: "2022-07-27T11:34:33.916256495Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -3205,11 +3251,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://pulse00.github.io/sentry-charts/sentry-5.6.0.tgz
+    - https://ecosio.github.io/sentry-charts/sentry-5.6.0.tgz
     version: 5.6.0
   - apiVersion: v2
     appVersion: 20.8.0
-    created: "2022-07-27T11:32:34.491458489Z"
+    created: "2022-07-27T11:34:33.89135085Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -3241,11 +3287,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://pulse00.github.io/sentry-charts/sentry-5.5.0.tgz
+    - https://ecosio.github.io/sentry-charts/sentry-5.5.0.tgz
     version: 5.5.0
   - apiVersion: v2
     appVersion: 20.8.0
-    created: "2022-07-27T11:32:34.47243212Z"
+    created: "2022-07-27T11:34:33.860226244Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -3277,11 +3323,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://pulse00.github.io/sentry-charts/sentry-5.4.0.tgz
+    - https://ecosio.github.io/sentry-charts/sentry-5.4.0.tgz
     version: 5.4.0
   - apiVersion: v2
     appVersion: 20.8.0
-    created: "2022-07-27T11:32:34.45288654Z"
+    created: "2022-07-27T11:34:33.834915902Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -3313,11 +3359,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://pulse00.github.io/sentry-charts/sentry-5.3.0.tgz
+    - https://ecosio.github.io/sentry-charts/sentry-5.3.0.tgz
     version: 5.3.0
   - apiVersion: v2
     appVersion: 20.8.0
-    created: "2022-07-27T11:32:34.434934792Z"
+    created: "2022-07-27T11:34:33.809264161Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -3349,11 +3395,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://pulse00.github.io/sentry-charts/sentry-5.2.3.tgz
+    - https://ecosio.github.io/sentry-charts/sentry-5.2.3.tgz
     version: 5.2.3
   - apiVersion: v2
     appVersion: 20.8.0
-    created: "2022-07-27T11:32:34.416981843Z"
+    created: "2022-07-27T11:34:33.78216513Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -3385,11 +3431,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://pulse00.github.io/sentry-charts/sentry-5.2.2.tgz
+    - https://ecosio.github.io/sentry-charts/sentry-5.2.2.tgz
     version: 5.2.2
   - apiVersion: v2
     appVersion: 20.8.0
-    created: "2022-07-27T11:32:34.398739089Z"
+    created: "2022-07-27T11:34:33.754477903Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -3421,11 +3467,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://pulse00.github.io/sentry-charts/sentry-5.2.1.tgz
+    - https://ecosio.github.io/sentry-charts/sentry-5.2.1.tgz
     version: 5.2.1
   - apiVersion: v2
     appVersion: 20.8.0
-    created: "2022-07-27T11:32:34.379955124Z"
+    created: "2022-07-27T11:34:33.724953986Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -3457,11 +3503,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://pulse00.github.io/sentry-charts/sentry-5.2.0.tgz
+    - https://ecosio.github.io/sentry-charts/sentry-5.2.0.tgz
     version: 5.2.0
   - apiVersion: v2
     appVersion: 20.8.0
-    created: "2022-07-27T11:32:34.36116606Z"
+    created: "2022-07-27T11:34:33.696454264Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -3493,11 +3539,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://pulse00.github.io/sentry-charts/sentry-5.1.3.tgz
+    - https://ecosio.github.io/sentry-charts/sentry-5.1.3.tgz
     version: 5.1.3
   - apiVersion: v2
     appVersion: 20.8.0
-    created: "2022-07-27T11:32:34.342446796Z"
+    created: "2022-07-27T11:34:33.665695455Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -3529,11 +3575,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://pulse00.github.io/sentry-charts/sentry-5.1.2.tgz
+    - https://ecosio.github.io/sentry-charts/sentry-5.1.2.tgz
     version: 5.1.2
   - apiVersion: v2
     appVersion: 20.8.1
-    created: "2022-07-27T11:32:34.323113221Z"
+    created: "2022-07-27T11:34:33.646285676Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -3565,11 +3611,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://pulse00.github.io/sentry-charts/sentry-5.1.1.tgz
+    - https://ecosio.github.io/sentry-charts/sentry-5.1.1.tgz
     version: 5.1.1
   - apiVersion: v2
     appVersion: 20.8.0
-    created: "2022-07-27T11:32:34.305138572Z"
+    created: "2022-07-27T11:34:33.62006294Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -3601,11 +3647,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://pulse00.github.io/sentry-charts/sentry-5.1.0.tgz
+    - https://ecosio.github.io/sentry-charts/sentry-5.1.0.tgz
     version: 5.1.0
   - apiVersion: v2
     appVersion: 20.7.2
-    created: "2022-07-27T11:32:34.287394828Z"
+    created: "2022-07-27T11:34:33.590052527Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -3637,11 +3683,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://pulse00.github.io/sentry-charts/sentry-5.0.1.tgz
+    - https://ecosio.github.io/sentry-charts/sentry-5.0.1.tgz
     version: 5.0.1
   - apiVersion: v2
     appVersion: 20.7.2
-    created: "2022-07-27T11:32:34.268843667Z"
+    created: "2022-07-27T11:34:33.564384086Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -3673,11 +3719,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://pulse00.github.io/sentry-charts/sentry-5.0.0.tgz
+    - https://ecosio.github.io/sentry-charts/sentry-5.0.0.tgz
     version: 5.0.0
   - apiVersion: v2
     appVersion: 20.7.0
-    created: "2022-07-27T11:32:34.250103104Z"
+    created: "2022-07-27T11:34:33.535073569Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -3705,11 +3751,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://pulse00.github.io/sentry-charts/sentry-4.8.1.tgz
+    - https://ecosio.github.io/sentry-charts/sentry-4.8.1.tgz
     version: 4.8.1
   - apiVersion: v2
     appVersion: 20.7.0
-    created: "2022-07-27T11:32:34.233249376Z"
+    created: "2022-07-27T11:34:33.51078442Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -3737,11 +3783,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://pulse00.github.io/sentry-charts/sentry-4.8.0.tgz
+    - https://ecosio.github.io/sentry-charts/sentry-4.8.0.tgz
     version: 4.8.0
   - apiVersion: v2
     appVersion: 20.7.0
-    created: "2022-07-27T11:32:34.216259747Z"
+    created: "2022-07-27T11:34:33.482587096Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -3769,11 +3815,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://pulse00.github.io/sentry-charts/sentry-4.7.2.tgz
+    - https://ecosio.github.io/sentry-charts/sentry-4.7.2.tgz
     version: 4.7.2
   - apiVersion: v2
     appVersion: 20.7.2
-    created: "2022-07-27T11:32:34.199212316Z"
+    created: "2022-07-27T11:34:33.465315803Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -3801,11 +3847,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://pulse00.github.io/sentry-charts/sentry-4.7.1.tgz
+    - https://ecosio.github.io/sentry-charts/sentry-4.7.1.tgz
     version: 4.7.1
   - apiVersion: v2
     appVersion: 20.7.2
-    created: "2022-07-27T11:32:34.181773277Z"
+    created: "2022-07-27T11:34:33.442116348Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -3833,11 +3879,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://pulse00.github.io/sentry-charts/sentry-4.7.0.tgz
+    - https://ecosio.github.io/sentry-charts/sentry-4.7.0.tgz
     version: 4.7.0
   - apiVersion: v2
     appVersion: 20.7.2
-    created: "2022-07-27T11:32:34.164653145Z"
+    created: "2022-07-27T11:34:33.416536407Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -3865,11 +3911,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://pulse00.github.io/sentry-charts/sentry-4.6.0.tgz
+    - https://ecosio.github.io/sentry-charts/sentry-4.6.0.tgz
     version: 4.6.0
   - apiVersion: v2
     appVersion: 20.7.2
-    created: "2022-07-27T11:32:34.147086804Z"
+    created: "2022-07-27T11:34:33.392619956Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -3897,11 +3943,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://pulse00.github.io/sentry-charts/sentry-4.5.1.tgz
+    - https://ecosio.github.io/sentry-charts/sentry-4.5.1.tgz
     version: 4.5.1
   - apiVersion: v2
     appVersion: 20.7.2
-    created: "2022-07-27T11:32:34.130251377Z"
+    created: "2022-07-27T11:34:33.369674499Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -3929,11 +3975,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://pulse00.github.io/sentry-charts/sentry-4.5.0.tgz
+    - https://ecosio.github.io/sentry-charts/sentry-4.5.0.tgz
     version: 4.5.0
   - apiVersion: v2
     appVersion: 20.7.1
-    created: "2022-07-27T11:32:34.11342005Z"
+    created: "2022-07-27T11:34:33.345851247Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -3961,11 +4007,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://pulse00.github.io/sentry-charts/sentry-4.4.0.tgz
+    - https://ecosio.github.io/sentry-charts/sentry-4.4.0.tgz
     version: 4.4.0
   - apiVersion: v2
     appVersion: 20.7.1
-    created: "2022-07-27T11:32:34.096498922Z"
+    created: "2022-07-27T11:34:33.321529499Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -3993,11 +4039,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://pulse00.github.io/sentry-charts/sentry-4.3.0.tgz
+    - https://ecosio.github.io/sentry-charts/sentry-4.3.0.tgz
     version: 4.3.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2022-07-27T11:32:34.07887288Z"
+    created: "2022-07-27T11:34:33.29398787Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -4025,11 +4071,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://pulse00.github.io/sentry-charts/sentry-4.2.0.tgz
+    - https://ecosio.github.io/sentry-charts/sentry-4.2.0.tgz
     version: 4.2.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2022-07-27T11:32:34.06135824Z"
+    created: "2022-07-27T11:34:33.271216112Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -4057,11 +4103,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://pulse00.github.io/sentry-charts/sentry-4.1.0.tgz
+    - https://ecosio.github.io/sentry-charts/sentry-4.1.0.tgz
     version: 4.1.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2022-07-27T11:32:34.044774318Z"
+    created: "2022-07-27T11:34:33.24909445Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -4089,11 +4135,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://pulse00.github.io/sentry-charts/sentry-4.0.0.tgz
+    - https://ecosio.github.io/sentry-charts/sentry-4.0.0.tgz
     version: 4.0.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2022-07-27T11:32:34.028686805Z"
+    created: "2022-07-27T11:34:33.21533356Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -4121,11 +4167,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://pulse00.github.io/sentry-charts/sentry-3.1.0.tgz
+    - https://ecosio.github.io/sentry-charts/sentry-3.1.0.tgz
     version: 3.1.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2022-07-27T11:32:34.012182485Z"
+    created: "2022-07-27T11:34:33.199615558Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -4153,11 +4199,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://pulse00.github.io/sentry-charts/sentry-3.0.1.tgz
+    - https://ecosio.github.io/sentry-charts/sentry-3.0.1.tgz
     version: 3.0.1
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2022-07-27T11:32:33.99493465Z"
+    created: "2022-07-27T11:34:33.17352492Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -4185,11 +4231,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://pulse00.github.io/sentry-charts/sentry-3.0.0.tgz
+    - https://ecosio.github.io/sentry-charts/sentry-3.0.0.tgz
     version: 3.0.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2022-07-27T11:32:33.97847193Z"
+    created: "2022-07-27T11:34:33.149057473Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -4217,11 +4263,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://pulse00.github.io/sentry-charts/sentry-2.2.0.tgz
+    - https://ecosio.github.io/sentry-charts/sentry-2.2.0.tgz
     version: 2.2.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2022-07-27T11:32:33.96198771Z"
+    created: "2022-07-27T11:34:33.12535722Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -4249,11 +4295,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://pulse00.github.io/sentry-charts/sentry-2.1.0.tgz
+    - https://ecosio.github.io/sentry-charts/sentry-2.1.0.tgz
     version: 2.1.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2022-07-27T11:32:33.945086482Z"
+    created: "2022-07-27T11:34:33.101677368Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -4281,11 +4327,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://pulse00.github.io/sentry-charts/sentry-2.0.1.tgz
+    - https://ecosio.github.io/sentry-charts/sentry-2.0.1.tgz
     version: 2.0.1
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2022-07-27T11:32:33.928081752Z"
+    created: "2022-07-27T11:34:33.07886511Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -4313,11 +4359,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://pulse00.github.io/sentry-charts/sentry-2.0.0.tgz
+    - https://ecosio.github.io/sentry-charts/sentry-2.0.0.tgz
     version: 2.0.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2022-07-27T11:32:32.271266288Z"
+    created: "2022-07-27T11:34:31.325641328Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -4345,11 +4391,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://pulse00.github.io/sentry-charts/sentry-1.3.1.tgz
+    - https://ecosio.github.io/sentry-charts/sentry-1.3.1.tgz
     version: 1.3.1
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2022-07-27T11:32:32.255958491Z"
+    created: "2022-07-27T11:34:31.309193231Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -4377,11 +4423,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://pulse00.github.io/sentry-charts/sentry-1.3.0.tgz
+    - https://ecosio.github.io/sentry-charts/sentry-1.3.0.tgz
     version: 1.3.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2022-07-27T11:32:32.240558692Z"
+    created: "2022-07-27T11:34:31.292487835Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -4409,11 +4455,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://pulse00.github.io/sentry-charts/sentry-1.2.0.tgz
+    - https://ecosio.github.io/sentry-charts/sentry-1.2.0.tgz
     version: 1.2.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2022-07-27T11:32:32.224773386Z"
+    created: "2022-07-27T11:34:31.276256936Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -4441,11 +4487,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://pulse00.github.io/sentry-charts/sentry-1.1.0.tgz
+    - https://ecosio.github.io/sentry-charts/sentry-1.1.0.tgz
     version: 1.1.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2022-07-27T11:32:32.20951559Z"
+    created: "2022-07-27T11:34:31.25953004Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -4473,11 +4519,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://pulse00.github.io/sentry-charts/sentry-1.0.0.tgz
+    - https://ecosio.github.io/sentry-charts/sentry-1.0.0.tgz
     version: 1.0.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2022-07-27T11:32:32.180985236Z"
+    created: "2022-07-27T11:34:31.230726419Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -4505,11 +4551,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://pulse00.github.io/sentry-charts/sentry-0.12.3.tgz
+    - https://ecosio.github.io/sentry-charts/sentry-0.12.3.tgz
     version: 0.12.3
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2022-07-27T11:32:32.164988025Z"
+    created: "2022-07-27T11:34:31.214867918Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -4537,11 +4583,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://pulse00.github.io/sentry-charts/sentry-0.12.2.tgz
+    - https://ecosio.github.io/sentry-charts/sentry-0.12.2.tgz
     version: 0.12.2
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2022-07-27T11:32:32.148870612Z"
+    created: "2022-07-27T11:34:31.198393721Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -4569,11 +4615,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://pulse00.github.io/sentry-charts/sentry-0.12.1.tgz
+    - https://ecosio.github.io/sentry-charts/sentry-0.12.1.tgz
     version: 0.12.1
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2022-07-27T11:32:32.133067906Z"
+    created: "2022-07-27T11:34:31.183006517Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -4601,11 +4647,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://pulse00.github.io/sentry-charts/sentry-0.12.0.tgz
+    - https://ecosio.github.io/sentry-charts/sentry-0.12.0.tgz
     version: 0.12.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2022-07-27T11:32:32.116736689Z"
+    created: "2022-07-27T11:34:31.167544613Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -4633,11 +4679,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://pulse00.github.io/sentry-charts/sentry-0.11.1.tgz
+    - https://ecosio.github.io/sentry-charts/sentry-0.11.1.tgz
     version: 0.11.1
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2022-07-27T11:32:32.100134766Z"
+    created: "2022-07-27T11:34:31.151789711Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -4665,11 +4711,11 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://pulse00.github.io/sentry-charts/sentry-0.11.0.tgz
+    - https://ecosio.github.io/sentry-charts/sentry-0.11.0.tgz
     version: 0.11.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2022-07-27T11:32:32.084794868Z"
+    created: "2022-07-27T11:34:31.135616112Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -4697,122 +4743,122 @@ entries:
     name: sentry
     type: application
     urls:
-    - https://pulse00.github.io/sentry-charts/sentry-0.10.0.tgz
+    - https://ecosio.github.io/sentry-charts/sentry-0.10.0.tgz
     version: 0.10.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2022-07-27T11:32:32.194290194Z"
+    created: "2022-07-27T11:34:31.243808538Z"
     description: A Helm chart for Kubernetes
     digest: ccf7aabac486a68779d6564d90a875b45fefa4e4a9e8f86903355cf886b6a3aa
     name: sentry
     type: application
     urls:
-    - https://pulse00.github.io/sentry-charts/sentry-0.9.4.tgz
+    - https://ecosio.github.io/sentry-charts/sentry-0.9.4.tgz
     version: 0.9.4
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2022-07-27T11:32:32.193183373Z"
+    created: "2022-07-27T11:34:31.242730245Z"
     description: A Helm chart for Kubernetes
     digest: 07b380bbb341bb276b962de0b3721c9142a97e9fd084a394fc4d9f5db75bceea
     name: sentry
     type: application
     urls:
-    - https://pulse00.github.io/sentry-charts/sentry-0.9.3.tgz
+    - https://ecosio.github.io/sentry-charts/sentry-0.9.3.tgz
     version: 0.9.3
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2022-07-27T11:32:32.191914448Z"
+    created: "2022-07-27T11:34:31.241605052Z"
     description: A Helm chart for Kubernetes
     digest: a5a52cb5362e604215b1811e053a1b790d8f2e6c0c553a55d52f0750a6f63936
     name: sentry
     type: application
     urls:
-    - https://pulse00.github.io/sentry-charts/sentry-0.9.2.tgz
+    - https://ecosio.github.io/sentry-charts/sentry-0.9.2.tgz
     version: 0.9.2
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2022-07-27T11:32:32.190816727Z"
+    created: "2022-07-27T11:34:31.240478259Z"
     description: A Helm chart for Kubernetes
     digest: 81e65b09754dea768122d4d619801bab77714f9c77520afbc1658c7bf68b563d
     name: sentry
     type: application
     urls:
-    - https://pulse00.github.io/sentry-charts/sentry-0.9.1.tgz
+    - https://ecosio.github.io/sentry-charts/sentry-0.9.1.tgz
     version: 0.9.1
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2022-07-27T11:32:32.189172995Z"
+    created: "2022-07-27T11:34:31.239357366Z"
     description: A Helm chart for Kubernetes
     digest: 225f13adbe6a002014b135afc02b65771fbb5bbdf6f09e3179a408beb316846c
     name: sentry
     type: application
     urls:
-    - https://pulse00.github.io/sentry-charts/sentry-0.9.0.tgz
+    - https://ecosio.github.io/sentry-charts/sentry-0.9.0.tgz
     version: 0.9.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2022-07-27T11:32:32.187442761Z"
+    created: "2022-07-27T11:34:31.238243273Z"
     description: A Helm chart for Kubernetes
     digest: aef5a5cd789251ab629d25d18ac94a7801e80fb99dde54dc98111e7547326ce8
     name: sentry
     type: application
     urls:
-    - https://pulse00.github.io/sentry-charts/sentry-0.8.0.tgz
+    - https://ecosio.github.io/sentry-charts/sentry-0.8.0.tgz
     version: 0.8.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2022-07-27T11:32:32.18636094Z"
+    created: "2022-07-27T11:34:31.23712198Z"
     description: A Helm chart for Kubernetes
     digest: 2ced97e545a92598f9b3bc487aa53b7b4cd6df8ba2b97ffbce5807a6e0a641d0
     name: sentry
     type: application
     urls:
-    - https://pulse00.github.io/sentry-charts/sentry-0.7.0.tgz
+    - https://ecosio.github.io/sentry-charts/sentry-0.7.0.tgz
     version: 0.7.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2022-07-27T11:32:32.185278619Z"
+    created: "2022-07-27T11:34:31.235572589Z"
     description: A Helm chart for Kubernetes
     digest: bf3b118679f72f65fa20120dfd4c1718b56694250e80dac285189a0073a2fbcc
     name: sentry
     type: application
     urls:
-    - https://pulse00.github.io/sentry-charts/sentry-0.6.1.tgz
+    - https://ecosio.github.io/sentry-charts/sentry-0.6.1.tgz
     version: 0.6.1
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2022-07-27T11:32:32.184233299Z"
+    created: "2022-07-27T11:34:31.2338657Z"
     description: A Helm chart for Kubernetes
     digest: b24391c885cb84817b024df7feb81feb6d97443a1e7cf26d6a7a04cdd3e1af0c
     name: sentry
     type: application
     urls:
-    - https://pulse00.github.io/sentry-charts/sentry-0.6.0.tgz
+    - https://ecosio.github.io/sentry-charts/sentry-0.6.0.tgz
     version: 0.6.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2022-07-27T11:32:32.183102477Z"
+    created: "2022-07-27T11:34:31.232827206Z"
     description: A Helm chart for Kubernetes
     digest: 476900c519773349f70e8d0171f870ba5ad7983c62fcc72ae3b7799948500f33
     name: sentry
     type: application
     urls:
-    - https://pulse00.github.io/sentry-charts/sentry-0.5.0.tgz
+    - https://ecosio.github.io/sentry-charts/sentry-0.5.0.tgz
     version: 0.5.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2022-07-27T11:32:32.182020956Z"
+    created: "2022-07-27T11:34:31.231794813Z"
     description: A Helm chart for Kubernetes
     digest: 0da209fcf559a3aa66ef7715cf6327da2337e3739fff89e06a25d2e6a1488765
     name: sentry
     type: application
     urls:
-    - https://pulse00.github.io/sentry-charts/sentry-0.2.1.tgz
+    - https://ecosio.github.io/sentry-charts/sentry-0.2.1.tgz
     version: 0.2.1
   sentry-db:
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2022-07-27T11:32:35.169886059Z"
+    created: "2022-07-27T11:34:34.633849326Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -4839,11 +4885,11 @@ entries:
     name: sentry-db
     type: application
     urls:
-    - https://pulse00.github.io/sentry-charts/sentry-db-0.9.4.tgz
+    - https://ecosio.github.io/sentry-charts/sentry-db-0.9.4.tgz
     version: 0.9.4
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2022-07-27T11:32:35.155569482Z"
+    created: "2022-07-27T11:34:34.618636721Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -4870,11 +4916,11 @@ entries:
     name: sentry-db
     type: application
     urls:
-    - https://pulse00.github.io/sentry-charts/sentry-db-0.9.3.tgz
+    - https://ecosio.github.io/sentry-charts/sentry-db-0.9.3.tgz
     version: 0.9.3
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2022-07-27T11:32:35.141234503Z"
+    created: "2022-07-27T11:34:34.603511315Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -4901,11 +4947,11 @@ entries:
     name: sentry-db
     type: application
     urls:
-    - https://pulse00.github.io/sentry-charts/sentry-db-0.9.2.tgz
+    - https://ecosio.github.io/sentry-charts/sentry-db-0.9.2.tgz
     version: 0.9.2
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2022-07-27T11:32:35.126470717Z"
+    created: "2022-07-27T11:34:34.588536008Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -4932,11 +4978,11 @@ entries:
     name: sentry-db
     type: application
     urls:
-    - https://pulse00.github.io/sentry-charts/sentry-db-0.9.1.tgz
+    - https://ecosio.github.io/sentry-charts/sentry-db-0.9.1.tgz
     version: 0.9.1
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2022-07-27T11:32:35.112093538Z"
+    created: "2022-07-27T11:34:34.573383403Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -4963,11 +5009,11 @@ entries:
     name: sentry-db
     type: application
     urls:
-    - https://pulse00.github.io/sentry-charts/sentry-db-0.9.0.tgz
+    - https://ecosio.github.io/sentry-charts/sentry-db-0.9.0.tgz
     version: 0.9.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2022-07-27T11:32:35.097514254Z"
+    created: "2022-07-27T11:34:34.558342596Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -4994,11 +5040,11 @@ entries:
     name: sentry-db
     type: application
     urls:
-    - https://pulse00.github.io/sentry-charts/sentry-db-0.8.0.tgz
+    - https://ecosio.github.io/sentry-charts/sentry-db-0.8.0.tgz
     version: 0.8.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2022-07-27T11:32:35.083201577Z"
+    created: "2022-07-27T11:34:34.543617688Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -5025,11 +5071,11 @@ entries:
     name: sentry-db
     type: application
     urls:
-    - https://pulse00.github.io/sentry-charts/sentry-db-0.7.0.tgz
+    - https://ecosio.github.io/sentry-charts/sentry-db-0.7.0.tgz
     version: 0.7.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2022-07-27T11:32:35.068757696Z"
+    created: "2022-07-27T11:34:34.52880518Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -5056,11 +5102,11 @@ entries:
     name: sentry-db
     type: application
     urls:
-    - https://pulse00.github.io/sentry-charts/sentry-db-0.6.1.tgz
+    - https://ecosio.github.io/sentry-charts/sentry-db-0.6.1.tgz
     version: 0.6.1
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2022-07-27T11:32:35.054357117Z"
+    created: "2022-07-27T11:34:34.514007672Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -5087,11 +5133,11 @@ entries:
     name: sentry-db
     type: application
     urls:
-    - https://pulse00.github.io/sentry-charts/sentry-db-0.6.0.tgz
+    - https://ecosio.github.io/sentry-charts/sentry-db-0.6.0.tgz
     version: 0.6.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2022-07-27T11:32:35.039806534Z"
+    created: "2022-07-27T11:34:34.499057866Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -5118,11 +5164,11 @@ entries:
     name: sentry-db
     type: application
     urls:
-    - https://pulse00.github.io/sentry-charts/sentry-db-0.5.0.tgz
+    - https://ecosio.github.io/sentry-charts/sentry-db-0.5.0.tgz
     version: 0.5.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2022-07-27T11:32:35.025268152Z"
+    created: "2022-07-27T11:34:34.484154558Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -5149,12 +5195,12 @@ entries:
     name: sentry-db
     type: application
     urls:
-    - https://pulse00.github.io/sentry-charts/sentry-db-0.2.1.tgz
+    - https://ecosio.github.io/sentry-charts/sentry-db-0.2.1.tgz
     version: 0.2.1
   sentry-kubernetes:
   - apiVersion: v2
     appVersion: latest
-    created: "2022-07-27T11:32:35.171068982Z"
+    created: "2022-07-27T11:34:34.635050919Z"
     description: A Helm chart for sentry-kubernetes (https://github.com/getsentry/sentry-kubernetes)
     digest: 57760fc8ad6d26a6cf3d28b78bfb2bdb8d80f4cce2ff1d4e527c2b2f3d1437c9
     home: https://github.com/getsentry/sentry-kubernetes
@@ -5168,11 +5214,11 @@ entries:
     - https://github.com/sentry-kubernetes/charts
     type: application
     urls:
-    - https://pulse00.github.io/sentry-charts/sentry-kubernetes-0.3.2.tgz
+    - https://ecosio.github.io/sentry-charts/sentry-kubernetes-0.3.2.tgz
     version: 0.3.2
   - apiVersion: v2
     appVersion: latest
-    created: "2022-07-27T11:32:35.170677775Z"
+    created: "2022-07-27T11:34:34.634648321Z"
     description: A Helm chart for sentry-kubernetes (https://github.com/getsentry/sentry-kubernetes)
     digest: 233c575ab9e3eb3f63ee347cf32d3719b22e6546952a160cf253b32f895b5b83
     home: https://github.com/getsentry/sentry-kubernetes
@@ -5186,11 +5232,11 @@ entries:
     - https://github.com/sentry-kubernetes/charts
     type: application
     urls:
-    - https://pulse00.github.io/sentry-charts/sentry-kubernetes-0.3.1.tgz
+    - https://ecosio.github.io/sentry-charts/sentry-kubernetes-0.3.1.tgz
     version: 0.3.1
   - apiVersion: v2
     appVersion: latest
-    created: "2022-07-27T11:32:35.170311368Z"
+    created: "2022-07-27T11:34:34.634283223Z"
     description: A Helm chart for sentry-kubernetes (https://github.com/getsentry/sentry-kubernetes)
     digest: 727778ddeffa08ad086e07dc6014f13a905145cde1d257816df2fd52f1ec93db
     home: https://github.com/getsentry/sentry-kubernetes
@@ -5204,6 +5250,6 @@ entries:
     - https://github.com/sentry-kubernetes/charts
     type: application
     urls:
-    - https://pulse00.github.io/sentry-charts/sentry-kubernetes-0.3.0.tgz
+    - https://ecosio.github.io/sentry-charts/sentry-kubernetes-0.3.0.tgz
     version: 0.3.0
-generated: "2022-07-27T11:32:32.042229542Z"
+generated: "2022-07-27T11:34:31.09743525Z"
