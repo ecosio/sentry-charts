@@ -3,7 +3,7 @@ entries:
   clickhouse:
   - apiVersion: v1
     appVersion: "19.14"
-    created: "2022-07-29T13:16:48.800045749Z"
+    created: "2022-08-08T16:58:07.283410109Z"
     description: ClickHouse is an open source column-oriented database management
       system capable of real time generation of analytical data reports using SQL
       queries
@@ -24,7 +24,7 @@ entries:
     version: 3.1.3
   - apiVersion: v1
     appVersion: "19.14"
-    created: "2022-07-29T13:16:48.798282115Z"
+    created: "2022-08-08T16:58:07.281846108Z"
     description: ClickHouse is an open source column-oriented database management
       system capable of real time generation of analytical data reports using SQL
       queries
@@ -45,7 +45,7 @@ entries:
     version: 3.1.2
   - apiVersion: v1
     appVersion: "19.14"
-    created: "2022-07-29T13:16:48.796267477Z"
+    created: "2022-08-08T16:58:07.280242307Z"
     description: ClickHouse is an open source column-oriented database management
       system capable of real time generation of analytical data reports using SQL
       queries
@@ -64,7 +64,7 @@ entries:
     version: 3.1.1
   - apiVersion: v1
     appVersion: "19.14"
-    created: "2022-07-29T13:16:48.793712529Z"
+    created: "2022-08-08T16:58:07.278645106Z"
     description: ClickHouse is an open source column-oriented database management
       system capable of real time generation of analytical data reports using SQL
       queries
@@ -83,7 +83,7 @@ entries:
     version: 3.1.0
   - apiVersion: v1
     appVersion: "19.14"
-    created: "2022-07-29T13:16:48.791030579Z"
+    created: "2022-08-08T16:58:07.276918705Z"
     description: ClickHouse is an open source column-oriented database management
       system capable of real time generation of analytical data reports using SQL
       queries
@@ -102,7 +102,7 @@ entries:
     version: 3.0.0
   - apiVersion: v1
     appVersion: "19.14"
-    created: "2022-07-29T13:16:48.787504012Z"
+    created: "2022-08-08T16:58:07.274095803Z"
     description: ClickHouse is an open source column-oriented database management
       system capable of real time generation of analytical data reports using SQL
       queries
@@ -121,7 +121,7 @@ entries:
     version: 2.0.0
   - apiVersion: v1
     appVersion: "19.14"
-    created: "2022-07-29T13:16:48.785415973Z"
+    created: "2022-08-08T16:58:07.272659602Z"
     description: ClickHouse is an open source column-oriented database management
       system capable of real time generation of analytical data reports using SQL
       queries
@@ -140,7 +140,7 @@ entries:
     version: 1.5.0
   - apiVersion: v1
     appVersion: "19.14"
-    created: "2022-07-29T13:16:48.783599039Z"
+    created: "2022-08-08T16:58:07.271269501Z"
     description: ClickHouse is an open source column-oriented database management
       system capable of real time generation of analytical data reports using SQL
       queries
@@ -159,7 +159,7 @@ entries:
     version: 1.4.1
   - apiVersion: v1
     appVersion: "19.14"
-    created: "2022-07-29T13:16:48.781931407Z"
+    created: "2022-08-08T16:58:07.269886301Z"
     description: ClickHouse is an open source column-oriented database management
       system capable of real time generation of analytical data reports using SQL
       queries
@@ -178,7 +178,7 @@ entries:
     version: 1.4.0
   - apiVersion: v1
     appVersion: "19.14"
-    created: "2022-07-29T13:16:48.780056172Z"
+    created: "2022-08-08T16:58:07.2684644Z"
     description: ClickHouse is an open source column-oriented database management
       system capable of real time generation of analytical data reports using SQL
       queries
@@ -197,7 +197,7 @@ entries:
     version: 1.3.0
   - apiVersion: v1
     appVersion: "19.14"
-    created: "2022-07-29T13:16:48.778534443Z"
+    created: "2022-08-08T16:58:07.267190799Z"
     description: ClickHouse is an open source column-oriented database management
       system capable of real time generation of analytical data reports using SQL
       queries
@@ -216,7 +216,7 @@ entries:
     version: 1.2.2
   - apiVersion: v1
     appVersion: "19.14"
-    created: "2022-07-29T13:16:48.774978376Z"
+    created: "2022-08-08T16:58:07.265171698Z"
     description: ClickHouse is an open source column-oriented database management
       system capable of real time generation of analytical data reports using SQL
       queries
@@ -235,7 +235,7 @@ entries:
     version: 1.2.1
   - apiVersion: v1
     appVersion: "19.14"
-    created: "2022-07-29T13:16:48.773606751Z"
+    created: "2022-08-08T16:58:07.263765297Z"
     description: ClickHouse is an open source column-oriented database management
       system capable of real time generation of analytical data reports using SQL
       queries
@@ -254,7 +254,7 @@ entries:
     version: 1.2.0
   - apiVersion: v1
     appVersion: "19.14"
-    created: "2022-07-29T13:16:48.772044521Z"
+    created: "2022-08-08T16:58:07.262538496Z"
     description: ClickHouse is an open source column-oriented database management
       system capable of real time generation of analytical data reports using SQL
       queries
@@ -273,7 +273,7 @@ entries:
     version: 1.1.0
   - apiVersion: v1
     appVersion: "19.14"
-    created: "2022-07-29T13:16:48.770622794Z"
+    created: "2022-08-08T16:58:07.261347695Z"
     description: ClickHouse is an open source column-oriented database management
       system capable of real time generation of analytical data reports using SQL
       queries
@@ -292,7 +292,7 @@ entries:
     version: 1.0.1
   - apiVersion: v1
     appVersion: "19.14"
-    created: "2022-07-29T13:16:48.769133366Z"
+    created: "2022-08-08T16:58:07.260082295Z"
     description: ClickHouse is an open source column-oriented database management
       system capable of real time generation of analytical data reports using SQL
       queries
@@ -312,7 +312,53 @@ entries:
   sentry:
   - apiVersion: v2
     appVersion: 22.6.0
-    created: "2022-07-29T13:16:51.453639831Z"
+    created: "2022-08-08T16:58:09.465523581Z"
+    dependencies:
+    - condition: sourcemaps.enabled
+      name: memcached
+      repository: https://charts.bitnami.com/bitnami
+      version: 6.1.5
+    - condition: redis.enabled
+      name: redis
+      repository: https://charts.bitnami.com/bitnami
+      version: 16.12.1
+    - condition: kafka.enabled
+      name: kafka
+      repository: https://charts.bitnami.com/bitnami
+      version: 16.3.2
+    - condition: clickhouse.enabled
+      name: clickhouse
+      repository: https://sentry-kubernetes.github.io/charts
+      version: 3.1.2
+    - condition: zookeeper.enabled
+      name: zookeeper
+      repository: https://charts.bitnami.com/bitnami
+      version: 9.0.0
+    - alias: rabbitmq
+      condition: rabbitmq.enabled
+      name: rabbitmq
+      repository: https://charts.bitnami.com/bitnami
+      version: 8.32.2
+    - condition: postgresql.enabled
+      name: postgresql
+      repository: https://charts.bitnami.com/bitnami
+      version: 10.16.2
+    - condition: nginx.enabled
+      name: nginx
+      repository: https://charts.bitnami.com/bitnami
+      version: 12.0.4
+    description: A Helm chart for Kubernetes
+    digest: c0b781d579b979f3985528e3b12295ffacd56fb204f6d0da14832e5414c68c47
+    maintainers:
+    - name: sentry-kubernetes
+    name: sentry
+    type: application
+    urls:
+    - https://ecosio.github.io/sentry-charts/sentry-15.1.9.tgz
+    version: 15.1.9
+  - apiVersion: v2
+    appVersion: 22.6.0
+    created: "2022-08-08T16:58:09.42048448Z"
     dependencies:
     - condition: sourcemaps.enabled
       name: memcached
@@ -358,7 +404,7 @@ entries:
     version: 15.1.8
   - apiVersion: v2
     appVersion: 22.6.0
-    created: "2022-07-29T13:16:51.401200756Z"
+    created: "2022-08-08T16:58:09.376034183Z"
     dependencies:
     - condition: sourcemaps.enabled
       name: memcached
@@ -404,7 +450,7 @@ entries:
     version: 15.1.7
   - apiVersion: v2
     appVersion: 22.6.0
-    created: "2022-07-29T13:16:51.344625812Z"
+    created: "2022-08-08T16:58:09.331134984Z"
     dependencies:
     - condition: sourcemaps.enabled
       name: memcached
@@ -450,7 +496,7 @@ entries:
     version: 15.1.6
   - apiVersion: v2
     appVersion: 22.6.0
-    created: "2022-07-29T13:16:51.286845748Z"
+    created: "2022-08-08T16:58:09.285034876Z"
     dependencies:
     - condition: sourcemaps.enabled
       name: memcached
@@ -496,7 +542,7 @@ entries:
     version: 15.1.5
   - apiVersion: v2
     appVersion: 22.6.0
-    created: "2022-07-29T13:16:51.232464341Z"
+    created: "2022-08-08T16:58:09.241361884Z"
     dependencies:
     - condition: sourcemaps.enabled
       name: memcached
@@ -542,7 +588,7 @@ entries:
     version: 15.1.4
   - apiVersion: v2
     appVersion: 22.6.0
-    created: "2022-07-29T13:16:51.177723927Z"
+    created: "2022-08-08T16:58:09.197138089Z"
     dependencies:
     - condition: sourcemaps.enabled
       name: memcached
@@ -588,7 +634,7 @@ entries:
     version: 15.1.3
   - apiVersion: v2
     appVersion: 22.6.0
-    created: "2022-07-29T13:16:51.123980131Z"
+    created: "2022-08-08T16:58:09.153269596Z"
     dependencies:
     - condition: sourcemaps.enabled
       name: memcached
@@ -634,7 +680,7 @@ entries:
     version: 15.1.2
   - apiVersion: v2
     appVersion: 22.6.0
-    created: "2022-07-29T13:16:51.071757659Z"
+    created: "2022-08-08T16:58:09.109003001Z"
     dependencies:
     - condition: sourcemaps.enabled
       name: memcached
@@ -680,7 +726,7 @@ entries:
     version: 15.1.1
   - apiVersion: v2
     appVersion: 22.6.0
-    created: "2022-07-29T13:16:51.01604563Z"
+    created: "2022-08-08T16:58:09.063769399Z"
     dependencies:
     - condition: sourcemaps.enabled
       name: memcached
@@ -726,7 +772,7 @@ entries:
     version: 15.1.0
   - apiVersion: v2
     appVersion: 22.6.0
-    created: "2022-07-29T13:16:50.52095787Z"
+    created: "2022-08-08T16:58:08.664651934Z"
     dependencies:
     - condition: sourcemaps.enabled
       name: memcached
@@ -772,7 +818,7 @@ entries:
     version: 15.0.14
   - apiVersion: v2
     appVersion: 22.6.0
-    created: "2022-07-29T13:16:50.469280508Z"
+    created: "2022-08-08T16:58:08.619566433Z"
     dependencies:
     - condition: sourcemaps.enabled
       name: memcached
@@ -818,7 +864,7 @@ entries:
     version: 15.0.13
   - apiVersion: v2
     appVersion: 22.6.0
-    created: "2022-07-29T13:16:50.417796949Z"
+    created: "2022-08-08T16:58:08.574941535Z"
     dependencies:
     - condition: sourcemaps.enabled
       name: memcached
@@ -864,7 +910,7 @@ entries:
     version: 15.0.12
   - apiVersion: v2
     appVersion: 22.6.0
-    created: "2022-07-29T13:16:50.361338007Z"
+    created: "2022-08-08T16:58:08.530139536Z"
     dependencies:
     - condition: sourcemaps.enabled
       name: memcached
@@ -910,7 +956,7 @@ entries:
     version: 15.0.11
   - apiVersion: v2
     appVersion: 22.6.0
-    created: "2022-07-29T13:16:50.3069755Z"
+    created: "2022-08-08T16:58:08.485644639Z"
     dependencies:
     - condition: sourcemaps.enabled
       name: memcached
@@ -956,7 +1002,7 @@ entries:
     version: 15.0.10
   - apiVersion: v2
     appVersion: 22.6.0
-    created: "2022-07-29T13:16:50.960944711Z"
+    created: "2022-08-08T16:58:09.019598704Z"
     dependencies:
     - condition: sourcemaps.enabled
       name: memcached
@@ -1002,7 +1048,7 @@ entries:
     version: 15.0.9
   - apiVersion: v2
     appVersion: 22.6.0
-    created: "2022-07-29T13:16:50.907067612Z"
+    created: "2022-08-08T16:58:08.974237001Z"
     dependencies:
     - condition: sourcemaps.enabled
       name: memcached
@@ -1048,7 +1094,7 @@ entries:
     version: 15.0.8
   - apiVersion: v2
     appVersion: 22.6.0
-    created: "2022-07-29T13:16:50.852209896Z"
+    created: "2022-08-08T16:58:08.930805311Z"
     dependencies:
     - condition: sourcemaps.enabled
       name: memcached
@@ -1094,7 +1140,7 @@ entries:
     version: 15.0.7
   - apiVersion: v2
     appVersion: 22.7.0
-    created: "2022-07-29T13:16:50.798265796Z"
+    created: "2022-08-08T16:58:08.886534115Z"
     dependencies:
     - condition: sourcemaps.enabled
       name: memcached
@@ -1140,7 +1186,7 @@ entries:
     version: 15.0.6
   - apiVersion: v2
     appVersion: 22.6.0
-    created: "2022-07-29T13:16:50.742767371Z"
+    created: "2022-08-08T16:58:08.842167419Z"
     dependencies:
     - condition: sourcemaps.enabled
       name: memcached
@@ -1186,7 +1232,7 @@ entries:
     version: 15.0.5
   - apiVersion: v2
     appVersion: 22.6.0
-    created: "2022-07-29T13:16:50.690459398Z"
+    created: "2022-08-08T16:58:08.796840617Z"
     dependencies:
     - condition: sourcemaps.enabled
       name: memcached
@@ -1232,7 +1278,7 @@ entries:
     version: 15.0.4
   - apiVersion: v2
     appVersion: 22.6.0
-    created: "2022-07-29T13:16:50.631787819Z"
+    created: "2022-08-08T16:58:08.753371726Z"
     dependencies:
     - condition: sourcemaps.enabled
       name: memcached
@@ -1278,7 +1324,7 @@ entries:
     version: 15.0.3
   - apiVersion: v2
     appVersion: 22.6.0
-    created: "2022-07-29T13:16:50.577064306Z"
+    created: "2022-08-08T16:58:08.709497933Z"
     dependencies:
     - condition: sourcemaps.enabled
       name: memcached
@@ -1324,7 +1370,7 @@ entries:
     version: 15.0.2
   - apiVersion: v2
     appVersion: 22.6.0
-    created: "2022-07-29T13:16:50.250416856Z"
+    created: "2022-08-08T16:58:08.440990941Z"
     dependencies:
     - condition: sourcemaps.enabled
       name: memcached
@@ -1370,7 +1416,7 @@ entries:
     version: 15.0.1
   - apiVersion: v2
     appVersion: 22.6.0
-    created: "2022-07-29T13:16:50.196864163Z"
+    created: "2022-08-08T16:58:08.396221842Z"
     dependencies:
     - condition: sourcemaps.enabled
       name: memcached
@@ -1416,7 +1462,7 @@ entries:
     version: 15.0.0
   - apiVersion: v2
     appVersion: 22.6.0
-    created: "2022-07-29T13:16:50.141257735Z"
+    created: "2022-08-08T16:58:08.351827845Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -1458,7 +1504,7 @@ entries:
     version: 14.2.0
   - apiVersion: v2
     appVersion: 22.6.0
-    created: "2022-07-29T13:16:50.100357353Z"
+    created: "2022-08-08T16:58:08.31958183Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -1500,7 +1546,7 @@ entries:
     version: 14.1.2
   - apiVersion: v2
     appVersion: 22.5.0
-    created: "2022-07-29T13:16:50.057769042Z"
+    created: "2022-08-08T16:58:08.28658121Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -1542,7 +1588,7 @@ entries:
     version: 14.1.1
   - apiVersion: v2
     appVersion: 22.5.0
-    created: "2022-07-29T13:16:50.016825159Z"
+    created: "2022-08-08T16:58:08.253497889Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -1584,7 +1630,7 @@ entries:
     version: 14.1.0
   - apiVersion: v2
     appVersion: 22.3.0
-    created: "2022-07-29T13:16:49.97254252Z"
+    created: "2022-08-08T16:58:08.220909371Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -1626,7 +1672,7 @@ entries:
     version: 14.0.2
   - apiVersion: v2
     appVersion: 22.3.0
-    created: "2022-07-29T13:16:49.930991747Z"
+    created: "2022-08-08T16:58:08.188521355Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -1666,7 +1712,7 @@ entries:
     version: 14.0.1
   - apiVersion: v2
     appVersion: 22.3.0
-    created: "2022-07-29T13:16:49.886937217Z"
+    created: "2022-08-08T16:58:08.155983938Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -1706,7 +1752,7 @@ entries:
     version: 14.0.0
   - apiVersion: v2
     appVersion: 21.8.0
-    created: "2022-07-29T13:16:49.844448417Z"
+    created: "2022-08-08T16:58:08.124034025Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -1742,7 +1788,7 @@ entries:
     version: 13.1.0
   - apiVersion: v2
     appVersion: 21.8.0
-    created: "2022-07-29T13:16:49.805938992Z"
+    created: "2022-08-08T16:58:08.095884037Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -1778,7 +1824,7 @@ entries:
     version: 13.0.1
   - apiVersion: v2
     appVersion: 21.8.0
-    created: "2022-07-29T13:16:49.75646986Z"
+    created: "2022-08-08T16:58:08.067172345Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -1814,7 +1860,7 @@ entries:
     version: 13.0.0
   - apiVersion: v2
     appVersion: 21.8.0
-    created: "2022-07-29T13:16:49.716089799Z"
+    created: "2022-08-08T16:58:08.03651584Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -1850,7 +1896,7 @@ entries:
     version: 12.0.0
   - apiVersion: v2
     appVersion: 21.8.0
-    created: "2022-07-29T13:16:49.68264087Z"
+    created: "2022-08-08T16:58:08.007326945Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -1886,7 +1932,7 @@ entries:
     version: 11.9.0
   - apiVersion: v2
     appVersion: 21.8.0
-    created: "2022-07-29T13:16:49.649598347Z"
+    created: "2022-08-08T16:58:07.983112284Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -1922,7 +1968,7 @@ entries:
     version: 11.8.0
   - apiVersion: v2
     appVersion: 21.8.0
-    created: "2022-07-29T13:16:49.616146917Z"
+    created: "2022-08-08T16:58:07.95711321Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -1958,7 +2004,7 @@ entries:
     version: 11.7.0
   - apiVersion: v2
     appVersion: 21.8.0
-    created: "2022-07-29T13:16:49.58653076Z"
+    created: "2022-08-08T16:58:07.932964449Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -1994,7 +2040,7 @@ entries:
     version: 11.6.0
   - apiVersion: v2
     appVersion: 21.7.0
-    created: "2022-07-29T13:16:49.555903683Z"
+    created: "2022-08-08T16:58:07.907850581Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -2030,7 +2076,7 @@ entries:
     version: 11.5.1
   - apiVersion: v2
     appVersion: 21.7.0
-    created: "2022-07-29T13:16:49.517096652Z"
+    created: "2022-08-08T16:58:07.883895021Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -2066,7 +2112,7 @@ entries:
     version: 11.5.0
   - apiVersion: v2
     appVersion: 21.6.1
-    created: "2022-07-29T13:16:49.486545777Z"
+    created: "2022-08-08T16:58:07.858487852Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -2102,7 +2148,7 @@ entries:
     version: 11.4.1
   - apiVersion: v2
     appVersion: 21.6.1
-    created: "2022-07-29T13:16:49.459069059Z"
+    created: "2022-08-08T16:58:07.834918594Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -2138,7 +2184,7 @@ entries:
     version: 11.4.0
   - apiVersion: v2
     appVersion: 21.5.1
-    created: "2022-07-29T13:16:49.429809108Z"
+    created: "2022-08-08T16:58:07.811189036Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -2174,7 +2220,7 @@ entries:
     version: 11.3.3
   - apiVersion: v2
     appVersion: 21.5.1
-    created: "2022-07-29T13:16:49.400295752Z"
+    created: "2022-08-08T16:58:07.788895887Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -2210,7 +2256,7 @@ entries:
     version: 11.3.2
   - apiVersion: v2
     appVersion: 21.5.1
-    created: "2022-07-29T13:16:49.37308904Z"
+    created: "2022-08-08T16:58:07.765713532Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -2246,7 +2292,7 @@ entries:
     version: 11.3.1
   - apiVersion: v2
     appVersion: 21.5.1
-    created: "2022-07-29T13:16:49.345400319Z"
+    created: "2022-08-08T16:58:07.740842766Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -2282,7 +2328,7 @@ entries:
     version: 11.3.0
   - apiVersion: v2
     appVersion: 21.4.1
-    created: "2022-07-29T13:16:49.317518794Z"
+    created: "2022-08-08T16:58:07.717739012Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -2318,7 +2364,7 @@ entries:
     version: 11.2.2
   - apiVersion: v2
     appVersion: 21.4.1
-    created: "2022-07-29T13:16:49.288227042Z"
+    created: "2022-08-08T16:58:07.694348156Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -2354,7 +2400,7 @@ entries:
     version: 11.2.1
   - apiVersion: v2
     appVersion: 21.4.0
-    created: "2022-07-29T13:16:49.258768087Z"
+    created: "2022-08-08T16:58:07.672066107Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -2390,7 +2436,7 @@ entries:
     version: 11.2.0
   - apiVersion: v2
     appVersion: 21.4.0
-    created: "2022-07-29T13:16:49.230674458Z"
+    created: "2022-08-08T16:58:07.648695851Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -2426,7 +2472,7 @@ entries:
     version: 11.1.0
   - apiVersion: v2
     appVersion: 21.3.1
-    created: "2022-07-29T13:16:49.195634698Z"
+    created: "2022-08-08T16:58:07.626190401Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -2462,7 +2508,7 @@ entries:
     version: 11.0.1
   - apiVersion: v2
     appVersion: 21.3.0
-    created: "2022-07-29T13:16:49.16707766Z"
+    created: "2022-08-08T16:58:07.603261348Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -2498,7 +2544,7 @@ entries:
     version: 11.0.0
   - apiVersion: v2
     appVersion: 21.3.0
-    created: "2022-07-29T13:16:49.140185654Z"
+    created: "2022-08-08T16:58:07.579326288Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -2534,7 +2580,7 @@ entries:
     version: 10.1.0
   - apiVersion: v2
     appVersion: 21.2.0
-    created: "2022-07-29T13:16:49.111504414Z"
+    created: "2022-08-08T16:58:07.548831484Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -2570,7 +2616,7 @@ entries:
     version: 10.0.0
   - apiVersion: v2
     appVersion: 21.2.0
-    created: "2022-07-29T13:16:52.849686322Z"
+    created: "2022-08-08T16:58:10.757647408Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -2606,7 +2652,7 @@ entries:
     version: 9.1.2
   - apiVersion: v2
     appVersion: 21.2.0
-    created: "2022-07-29T13:16:52.823010777Z"
+    created: "2022-08-08T16:58:10.728620014Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -2642,7 +2688,7 @@ entries:
     version: 9.1.1
   - apiVersion: v2
     appVersion: 21.2.0
-    created: "2022-07-29T13:16:52.794035993Z"
+    created: "2022-08-08T16:58:10.694139184Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -2678,7 +2724,7 @@ entries:
     version: 9.1.0
   - apiVersion: v2
     appVersion: 21.1.0
-    created: "2022-07-29T13:16:52.765614819Z"
+    created: "2022-08-08T16:58:10.667374105Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -2714,7 +2760,7 @@ entries:
     version: 9.0.2
   - apiVersion: v2
     appVersion: 21.1.0
-    created: "2022-07-29T13:16:52.736253129Z"
+    created: "2022-08-08T16:58:10.638473912Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -2750,7 +2796,7 @@ entries:
     version: 9.0.1
   - apiVersion: v2
     appVersion: 21.1.0
-    created: "2022-07-29T13:16:52.706034225Z"
+    created: "2022-08-08T16:58:10.600005455Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -2786,7 +2832,7 @@ entries:
     version: 9.0.0
   - apiVersion: v2
     appVersion: 20.12.1
-    created: "2022-07-29T13:16:52.673269378Z"
+    created: "2022-08-08T16:58:10.574608886Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -2822,7 +2868,7 @@ entries:
     version: 8.1.3
   - apiVersion: v2
     appVersion: 20.12.1
-    created: "2022-07-29T13:16:52.649622484Z"
+    created: "2022-08-08T16:58:10.5468211Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -2858,7 +2904,7 @@ entries:
     version: 8.1.2
   - apiVersion: v2
     appVersion: 20.12.1
-    created: "2022-07-29T13:16:52.62302074Z"
+    created: "2022-08-08T16:58:10.523304443Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -2894,7 +2940,7 @@ entries:
     version: 8.1.1
   - apiVersion: v2
     appVersion: 20.12.1
-    created: "2022-07-29T13:16:52.597471914Z"
+    created: "2022-08-08T16:58:10.496254663Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -2930,7 +2976,7 @@ entries:
     version: 8.1.0
   - apiVersion: v2
     appVersion: 20.10.1
-    created: "2022-07-29T13:16:52.572749201Z"
+    created: "2022-08-08T16:58:10.467617871Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -2966,7 +3012,7 @@ entries:
     version: 8.0.1
   - apiVersion: v2
     appVersion: 20.10.1
-    created: "2022-07-29T13:16:52.546800068Z"
+    created: "2022-08-08T16:58:10.436205162Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -3002,7 +3048,7 @@ entries:
     version: 8.0.0
   - apiVersion: v2
     appVersion: 20.10.1
-    created: "2022-07-29T13:16:52.521504746Z"
+    created: "2022-08-08T16:58:10.398435809Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -3038,7 +3084,7 @@ entries:
     version: 7.4.1
   - apiVersion: v2
     appVersion: 20.10.1
-    created: "2022-07-29T13:16:52.495496713Z"
+    created: "2022-08-08T16:58:10.372236235Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -3074,7 +3120,7 @@ entries:
     version: 7.4.0
   - apiVersion: v2
     appVersion: 20.10.1
-    created: "2022-07-29T13:16:52.470560697Z"
+    created: "2022-08-08T16:58:10.352562303Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -3110,7 +3156,7 @@ entries:
     version: 7.3.1
   - apiVersion: v2
     appVersion: 20.10.1
-    created: "2022-07-29T13:16:52.446738599Z"
+    created: "2022-08-08T16:58:10.324883118Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -3146,7 +3192,7 @@ entries:
     version: 7.3.0
   - apiVersion: v2
     appVersion: 20.10.1
-    created: "2022-07-29T13:16:52.424669831Z"
+    created: "2022-08-08T16:58:10.290256487Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -3182,7 +3228,7 @@ entries:
     version: 7.2.1
   - apiVersion: v2
     appVersion: 20.10.1
-    created: "2022-07-29T13:16:52.401299341Z"
+    created: "2022-08-08T16:58:10.260844391Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -3218,7 +3264,7 @@ entries:
     version: 7.2.0
   - apiVersion: v2
     appVersion: 20.10.1
-    created: "2022-07-29T13:16:52.374172188Z"
+    created: "2022-08-08T16:58:10.235141619Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -3254,7 +3300,7 @@ entries:
     version: 7.1.0
   - apiVersion: v2
     appVersion: 20.10.1
-    created: "2022-07-29T13:16:52.35029239Z"
+    created: "2022-08-08T16:58:10.216734196Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -3290,7 +3336,7 @@ entries:
     version: 7.0.0
   - apiVersion: v2
     appVersion: 20.9.0
-    created: "2022-07-29T13:16:52.325768181Z"
+    created: "2022-08-08T16:58:10.186652896Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -3326,7 +3372,7 @@ entries:
     version: 6.2.1
   - apiVersion: v2
     appVersion: 20.9.0
-    created: "2022-07-29T13:16:52.301597778Z"
+    created: "2022-08-08T16:58:10.160917224Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -3362,7 +3408,7 @@ entries:
     version: 6.2.0
   - apiVersion: v2
     appVersion: 20.9.0
-    created: "2022-07-29T13:16:52.276813464Z"
+    created: "2022-08-08T16:58:10.133112738Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -3398,7 +3444,7 @@ entries:
     version: 6.1.0
   - apiVersion: v2
     appVersion: 20.9.0
-    created: "2022-07-29T13:16:52.254638594Z"
+    created: "2022-08-08T16:58:10.106256159Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -3434,7 +3480,7 @@ entries:
     version: 6.0.0
   - apiVersion: v2
     appVersion: 20.9.0
-    created: "2022-07-29T13:16:52.231511008Z"
+    created: "2022-08-08T16:58:10.079273479Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -3470,7 +3516,7 @@ entries:
     version: 5.6.1
   - apiVersion: v2
     appVersion: 20.9.0
-    created: "2022-07-29T13:16:52.208706228Z"
+    created: "2022-08-08T16:58:10.058253638Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -3506,7 +3552,7 @@ entries:
     version: 5.6.0
   - apiVersion: v2
     appVersion: 20.8.0
-    created: "2022-07-29T13:16:52.185120034Z"
+    created: "2022-08-08T16:58:10.031861262Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -3542,7 +3588,7 @@ entries:
     version: 5.5.0
   - apiVersion: v2
     appVersion: 20.8.0
-    created: "2022-07-29T13:16:52.157366371Z"
+    created: "2022-08-08T16:58:10.014003543Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -3578,7 +3624,7 @@ entries:
     version: 5.4.0
   - apiVersion: v2
     appVersion: 20.8.0
-    created: "2022-07-29T13:16:52.134446489Z"
+    created: "2022-08-08T16:58:09.995699321Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -3614,7 +3660,7 @@ entries:
     version: 5.3.0
   - apiVersion: v2
     appVersion: 20.8.0
-    created: "2022-07-29T13:16:52.10812015Z"
+    created: "2022-08-08T16:58:09.977287598Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -3650,7 +3696,7 @@ entries:
     version: 5.2.3
   - apiVersion: v2
     appVersion: 20.8.0
-    created: "2022-07-29T13:16:52.086037681Z"
+    created: "2022-08-08T16:58:09.958985076Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -3686,7 +3732,7 @@ entries:
     version: 5.2.2
   - apiVersion: v2
     appVersion: 20.8.0
-    created: "2022-07-29T13:16:52.06078896Z"
+    created: "2022-08-08T16:58:09.94011445Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -3722,7 +3768,7 @@ entries:
     version: 5.2.1
   - apiVersion: v2
     appVersion: 20.8.0
-    created: "2022-07-29T13:16:52.037574473Z"
+    created: "2022-08-08T16:58:09.921306024Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -3758,7 +3804,7 @@ entries:
     version: 5.2.0
   - apiVersion: v2
     appVersion: 20.8.0
-    created: "2022-07-29T13:16:52.015361102Z"
+    created: "2022-08-08T16:58:09.902022595Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -3794,7 +3840,7 @@ entries:
     version: 5.1.3
   - apiVersion: v2
     appVersion: 20.8.0
-    created: "2022-07-29T13:16:51.993548438Z"
+    created: "2022-08-08T16:58:09.883907174Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -3830,7 +3876,7 @@ entries:
     version: 5.1.2
   - apiVersion: v2
     appVersion: 20.8.1
-    created: "2022-07-29T13:16:51.970454753Z"
+    created: "2022-08-08T16:58:09.865855454Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -3866,7 +3912,7 @@ entries:
     version: 5.1.1
   - apiVersion: v2
     appVersion: 20.8.0
-    created: "2022-07-29T13:16:51.941625772Z"
+    created: "2022-08-08T16:58:09.846969928Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -3902,7 +3948,7 @@ entries:
     version: 5.1.0
   - apiVersion: v2
     appVersion: 20.7.2
-    created: "2022-07-29T13:16:51.918427585Z"
+    created: "2022-08-08T16:58:09.828034201Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -3938,7 +3984,7 @@ entries:
     version: 5.0.1
   - apiVersion: v2
     appVersion: 20.7.2
-    created: "2022-07-29T13:16:51.896958627Z"
+    created: "2022-08-08T16:58:09.809309476Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -3974,7 +4020,7 @@ entries:
     version: 5.0.0
   - apiVersion: v2
     appVersion: 20.7.0
-    created: "2022-07-29T13:16:51.87379484Z"
+    created: "2022-08-08T16:58:09.790578951Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -4006,7 +4052,7 @@ entries:
     version: 4.8.1
   - apiVersion: v2
     appVersion: 20.7.0
-    created: "2022-07-29T13:16:51.851409867Z"
+    created: "2022-08-08T16:58:09.772751132Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -4038,7 +4084,7 @@ entries:
     version: 4.8.0
   - apiVersion: v2
     appVersion: 20.7.0
-    created: "2022-07-29T13:16:51.830825723Z"
+    created: "2022-08-08T16:58:09.756427623Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -4070,7 +4116,7 @@ entries:
     version: 4.7.2
   - apiVersion: v2
     appVersion: 20.7.2
-    created: "2022-07-29T13:16:51.809568769Z"
+    created: "2022-08-08T16:58:09.740118714Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -4102,7 +4148,7 @@ entries:
     version: 4.7.1
   - apiVersion: v2
     appVersion: 20.7.2
-    created: "2022-07-29T13:16:51.785782672Z"
+    created: "2022-08-08T16:58:09.724025407Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -4134,7 +4180,7 @@ entries:
     version: 4.7.0
   - apiVersion: v2
     appVersion: 20.7.2
-    created: "2022-07-29T13:16:51.764982125Z"
+    created: "2022-08-08T16:58:09.707928199Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -4166,7 +4212,7 @@ entries:
     version: 4.6.0
   - apiVersion: v2
     appVersion: 20.7.2
-    created: "2022-07-29T13:16:51.743398465Z"
+    created: "2022-08-08T16:58:09.691769891Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -4198,7 +4244,7 @@ entries:
     version: 4.5.1
   - apiVersion: v2
     appVersion: 20.7.2
-    created: "2022-07-29T13:16:51.720975891Z"
+    created: "2022-08-08T16:58:09.67507358Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -4230,7 +4276,7 @@ entries:
     version: 4.5.0
   - apiVersion: v2
     appVersion: 20.7.1
-    created: "2022-07-29T13:16:51.699417031Z"
+    created: "2022-08-08T16:58:09.658896872Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -4262,7 +4308,7 @@ entries:
     version: 4.4.0
   - apiVersion: v2
     appVersion: 20.7.1
-    created: "2022-07-29T13:16:51.678513382Z"
+    created: "2022-08-08T16:58:09.641795258Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -4294,7 +4340,7 @@ entries:
     version: 4.3.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2022-07-29T13:16:51.656351013Z"
+    created: "2022-08-08T16:58:09.62557725Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -4326,7 +4372,7 @@ entries:
     version: 4.2.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2022-07-29T13:16:51.635521165Z"
+    created: "2022-08-08T16:58:09.609077239Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -4358,7 +4404,7 @@ entries:
     version: 4.1.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2022-07-29T13:16:51.613755202Z"
+    created: "2022-08-08T16:58:09.592957232Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -4390,7 +4436,7 @@ entries:
     version: 4.0.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2022-07-29T13:16:51.594375779Z"
+    created: "2022-08-08T16:58:09.576867724Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -4422,7 +4468,7 @@ entries:
     version: 3.1.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2022-07-29T13:16:51.57468135Z"
+    created: "2022-08-08T16:58:09.560950118Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -4454,7 +4500,7 @@ entries:
     version: 3.0.1
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2022-07-29T13:16:51.554565214Z"
+    created: "2022-08-08T16:58:09.544459108Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -4486,7 +4532,7 @@ entries:
     version: 3.0.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2022-07-29T13:16:51.533678266Z"
+    created: "2022-08-08T16:58:09.528417601Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -4518,7 +4564,7 @@ entries:
     version: 2.2.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2022-07-29T13:16:51.513324526Z"
+    created: "2022-08-08T16:58:09.512554095Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -4550,7 +4596,7 @@ entries:
     version: 2.1.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2022-07-29T13:16:51.493573397Z"
+    created: "2022-08-08T16:58:09.496940191Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -4582,7 +4628,7 @@ entries:
     version: 2.0.1
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2022-07-29T13:16:51.47396757Z"
+    created: "2022-08-08T16:58:09.480545481Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -4614,7 +4660,7 @@ entries:
     version: 2.0.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2022-07-29T13:16:49.080039221Z"
+    created: "2022-08-08T16:58:07.508021647Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -4646,7 +4692,7 @@ entries:
     version: 1.3.1
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2022-07-29T13:16:49.046771595Z"
+    created: "2022-08-08T16:58:07.489676936Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -4678,7 +4724,7 @@ entries:
     version: 1.3.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2022-07-29T13:16:49.019575383Z"
+    created: "2022-08-08T16:58:07.474204526Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -4710,7 +4756,7 @@ entries:
     version: 1.2.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2022-07-29T13:16:48.998427284Z"
+    created: "2022-08-08T16:58:07.448774311Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -4742,7 +4788,7 @@ entries:
     version: 1.1.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2022-07-29T13:16:48.978478309Z"
+    created: "2022-08-08T16:58:07.430219299Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -4774,7 +4820,7 @@ entries:
     version: 1.0.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2022-07-29T13:16:48.940499094Z"
+    created: "2022-08-08T16:58:07.401028881Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -4806,7 +4852,7 @@ entries:
     version: 0.12.3
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2022-07-29T13:16:48.918882486Z"
+    created: "2022-08-08T16:58:07.385651872Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -4838,7 +4884,7 @@ entries:
     version: 0.12.2
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2022-07-29T13:16:48.897055175Z"
+    created: "2022-08-08T16:58:07.36652496Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -4870,7 +4916,7 @@ entries:
     version: 0.12.1
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2022-07-29T13:16:48.878586928Z"
+    created: "2022-08-08T16:58:07.35027415Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -4902,7 +4948,7 @@ entries:
     version: 0.12.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2022-07-29T13:16:48.859362166Z"
+    created: "2022-08-08T16:58:07.333051939Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -4934,7 +4980,7 @@ entries:
     version: 0.11.1
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2022-07-29T13:16:48.840588512Z"
+    created: "2022-08-08T16:58:07.316688329Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -4966,7 +5012,7 @@ entries:
     version: 0.11.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2022-07-29T13:16:48.819437614Z"
+    created: "2022-08-08T16:58:07.299963519Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -4998,7 +5044,7 @@ entries:
     version: 0.10.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2022-07-29T13:16:48.957515514Z"
+    created: "2022-08-08T16:58:07.41456419Z"
     description: A Helm chart for Kubernetes
     digest: ccf7aabac486a68779d6564d90a875b45fefa4e4a9e8f86903355cf886b6a3aa
     name: sentry
@@ -5008,7 +5054,7 @@ entries:
     version: 0.9.4
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2022-07-29T13:16:48.956122688Z"
+    created: "2022-08-08T16:58:07.413444789Z"
     description: A Helm chart for Kubernetes
     digest: 07b380bbb341bb276b962de0b3721c9142a97e9fd084a394fc4d9f5db75bceea
     name: sentry
@@ -5018,7 +5064,7 @@ entries:
     version: 0.9.3
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2022-07-29T13:16:48.954587459Z"
+    created: "2022-08-08T16:58:07.412342988Z"
     description: A Helm chart for Kubernetes
     digest: a5a52cb5362e604215b1811e053a1b790d8f2e6c0c553a55d52f0750a6f63936
     name: sentry
@@ -5028,7 +5074,7 @@ entries:
     version: 0.9.2
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2022-07-29T13:16:48.951929409Z"
+    created: "2022-08-08T16:58:07.411253687Z"
     description: A Helm chart for Kubernetes
     digest: 81e65b09754dea768122d4d619801bab77714f9c77520afbc1658c7bf68b563d
     name: sentry
@@ -5038,7 +5084,7 @@ entries:
     version: 0.9.1
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2022-07-29T13:16:48.950152175Z"
+    created: "2022-08-08T16:58:07.410145187Z"
     description: A Helm chart for Kubernetes
     digest: 225f13adbe6a002014b135afc02b65771fbb5bbdf6f09e3179a408beb316846c
     name: sentry
@@ -5048,7 +5094,7 @@ entries:
     version: 0.9.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2022-07-29T13:16:48.948852651Z"
+    created: "2022-08-08T16:58:07.409029486Z"
     description: A Helm chart for Kubernetes
     digest: aef5a5cd789251ab629d25d18ac94a7801e80fb99dde54dc98111e7547326ce8
     name: sentry
@@ -5058,7 +5104,7 @@ entries:
     version: 0.8.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2022-07-29T13:16:48.947520026Z"
+    created: "2022-08-08T16:58:07.407862185Z"
     description: A Helm chart for Kubernetes
     digest: 2ced97e545a92598f9b3bc487aa53b7b4cd6df8ba2b97ffbce5807a6e0a641d0
     name: sentry
@@ -5068,7 +5114,7 @@ entries:
     version: 0.7.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2022-07-29T13:16:48.9461377Z"
+    created: "2022-08-08T16:58:07.405687684Z"
     description: A Helm chart for Kubernetes
     digest: bf3b118679f72f65fa20120dfd4c1718b56694250e80dac285189a0073a2fbcc
     name: sentry
@@ -5078,7 +5124,7 @@ entries:
     version: 0.6.1
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2022-07-29T13:16:48.944823275Z"
+    created: "2022-08-08T16:58:07.404231183Z"
     description: A Helm chart for Kubernetes
     digest: b24391c885cb84817b024df7feb81feb6d97443a1e7cf26d6a7a04cdd3e1af0c
     name: sentry
@@ -5088,7 +5134,7 @@ entries:
     version: 0.6.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2022-07-29T13:16:48.943041241Z"
+    created: "2022-08-08T16:58:07.403203683Z"
     description: A Helm chart for Kubernetes
     digest: 476900c519773349f70e8d0171f870ba5ad7983c62fcc72ae3b7799948500f33
     name: sentry
@@ -5098,7 +5144,7 @@ entries:
     version: 0.5.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2022-07-29T13:16:48.941745417Z"
+    created: "2022-08-08T16:58:07.402094282Z"
     description: A Helm chart for Kubernetes
     digest: 0da209fcf559a3aa66ef7715cf6327da2337e3739fff89e06a25d2e6a1488765
     name: sentry
@@ -5109,7 +5155,7 @@ entries:
   sentry-db:
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2022-07-29T13:16:53.050724476Z"
+    created: "2022-08-08T16:58:10.989869358Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -5140,7 +5186,7 @@ entries:
     version: 0.9.4
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2022-07-29T13:16:53.033701992Z"
+    created: "2022-08-08T16:58:10.973405748Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -5171,7 +5217,7 @@ entries:
     version: 0.9.3
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2022-07-29T13:16:53.015897395Z"
+    created: "2022-08-08T16:58:10.951650003Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -5202,7 +5248,7 @@ entries:
     version: 0.9.2
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2022-07-29T13:16:52.998343402Z"
+    created: "2022-08-08T16:58:10.929187553Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -5233,7 +5279,7 @@ entries:
     version: 0.9.1
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2022-07-29T13:16:52.979682391Z"
+    created: "2022-08-08T16:58:10.905911298Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -5264,7 +5310,7 @@ entries:
     version: 0.9.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2022-07-29T13:16:52.961031679Z"
+    created: "2022-08-08T16:58:10.88533636Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -5295,7 +5341,7 @@ entries:
     version: 0.8.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2022-07-29T13:16:52.942446669Z"
+    created: "2022-08-08T16:58:10.86431932Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -5326,7 +5372,7 @@ entries:
     version: 0.7.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2022-07-29T13:16:52.92267804Z"
+    created: "2022-08-08T16:58:10.843539781Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -5357,7 +5403,7 @@ entries:
     version: 0.6.1
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2022-07-29T13:16:52.904204931Z"
+    created: "2022-08-08T16:58:10.821554934Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -5388,7 +5434,7 @@ entries:
     version: 0.6.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2022-07-29T13:16:52.88617373Z"
+    created: "2022-08-08T16:58:10.800312893Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -5419,7 +5465,7 @@ entries:
     version: 0.5.0
   - apiVersion: v2
     appVersion: 10.0.0
-    created: "2022-07-29T13:16:52.866857908Z"
+    created: "2022-08-08T16:58:10.778240345Z"
     dependencies:
     - condition: redis.enabled
       name: redis
@@ -5451,7 +5497,7 @@ entries:
   sentry-kubernetes:
   - apiVersion: v2
     appVersion: latest
-    created: "2022-07-29T13:16:53.05337452Z"
+    created: "2022-08-08T16:58:10.990971865Z"
     description: A Helm chart for sentry-kubernetes (https://github.com/getsentry/sentry-kubernetes)
     digest: 57760fc8ad6d26a6cf3d28b78bfb2bdb8d80f4cce2ff1d4e527c2b2f3d1437c9
     home: https://github.com/getsentry/sentry-kubernetes
@@ -5469,7 +5515,7 @@ entries:
     version: 0.3.2
   - apiVersion: v2
     appVersion: latest
-    created: "2022-07-29T13:16:53.052674208Z"
+    created: "2022-08-08T16:58:10.990624463Z"
     description: A Helm chart for sentry-kubernetes (https://github.com/getsentry/sentry-kubernetes)
     digest: 233c575ab9e3eb3f63ee347cf32d3719b22e6546952a160cf253b32f895b5b83
     home: https://github.com/getsentry/sentry-kubernetes
@@ -5487,7 +5533,7 @@ entries:
     version: 0.3.1
   - apiVersion: v2
     appVersion: latest
-    created: "2022-07-29T13:16:53.051667192Z"
+    created: "2022-08-08T16:58:10.990270861Z"
     description: A Helm chart for sentry-kubernetes (https://github.com/getsentry/sentry-kubernetes)
     digest: 727778ddeffa08ad086e07dc6014f13a905145cde1d257816df2fd52f1ec93db
     home: https://github.com/getsentry/sentry-kubernetes
@@ -5503,4 +5549,4 @@ entries:
     urls:
     - https://ecosio.github.io/sentry-charts/sentry-kubernetes-0.3.0.tgz
     version: 0.3.0
-generated: "2022-07-29T13:16:48.767413034Z"
+generated: "2022-08-08T16:58:07.258615394Z"
