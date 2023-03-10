@@ -73,6 +73,7 @@ spec:
             ls -l /credentials
             cp /relay-init-scripts/*.sh /tmp
             /bin/bash /tmp/relay-init.sh
+          resources:
 {{ toYaml .Values.relay.init.resources | indent 12 }}
           env:
             - name: RELAY_PORT
@@ -91,6 +92,9 @@ spec:
               mountPath: /work/.relay/config.yml
               subPath: config.yml
               readOnly: true
+{{- if .Values.relay.init.volumeMounts }}
+{{ toYaml .Values.relay.volumeMounts | indent 12 }}
+{{- end }}
       {{- if .Values.dnsPolicy }}
       dnsPolicy: {{ .Values.dnsPolicy | quote }}
       {{- end }}
@@ -100,6 +104,10 @@ spec:
       {{- end }}
       containers:
       - name: {{ .Chart.Name }}-relay
+{{- if .Values.relay.args }}
+        args:
+{{ toYaml .Values.relay.args | indent 10 }}
+{{- end }}
         image: "{{ template "relay.image" . }}"
         imagePullPolicy: {{ default "IfNotPresent" .Values.images.sentry.pullPolicy }}
         ports:
@@ -125,6 +133,9 @@ spec:
           - name: {{ .Values.geodata.volumeName }}
             mountPath: {{ .Values.geodata.mountPath }}
           {{- end }}
+{{- if .Values.relay.volumeMounts }}
+{{ toYaml .Values.relay.volumeMounts | indent 10 }}
+{{- end }}
         livenessProbe:
           failureThreshold: {{ .Values.relay.probeFailureThreshold }}
           httpGet:
